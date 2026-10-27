@@ -1,0 +1,1119 @@
+{
+  "format": 1,
+  "id": "meetup-groups-gaming",
+  "name": "Meetup Groups - Gaming",
+  "description": "Board game, chess, RPG, mahjong, pinball, puzzle and video game groups around San Diego County, collected from their Meetup pages.",
+  "updated_at": "2026-10-27T18:31:18Z",
+  "groups": [
+    {
+      "id": "games-san-diego-social-chess-club",
+      "name": "San Diego Social Chess Club",
+      "description": "Casual, friendly chess for beginners through masters at outdoor shaded tables. Registering is encouraged but not required. Just show up and play. Usually 4–8 players.",
+      "neighborhood": "clairemont",
+      "address": "Clairemont Town Square, 4705 Clairemont Dr, San Diego (outside the former Reading Cinemas)",
+      "frequency": "Every Saturday 10:00 AM–12:00 PM",
+      "cost": {
+        "kind": "free",
+        "note": "Donations appreciated"
+      },
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "chess",
+        "beginner friendly",
+        "all ages",
+        "outdoor"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/san-diego-social-chess-club/"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "games-san-diego-roleplaying-association",
+      "name": "The San Diego Roleplaying Association",
+      "description": "Connects local GMs who need players with players who need games. Welcomes new and experienced players and runs RPGs of all kinds, from D&D to Fiasco, plus one-shots and convention meetups.",
+      "neighborhood": "countywide",
+      "address": "Various: Tea n More and Forbidden Cove (Clairemont Mesa Blvd), Off The Shelf Games (El Cajon), At Ease Games (Miramar Rd), Enzo's BBQ Ale House (Encinitas)",
+      "frequency": "",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "tabletop rpg",
+        "d&d",
+        "beginner friendly",
+        "one-shots"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/role-players-san-diego/"
+        },
+        {
+          "kind": "instagram",
+          "url": "https://www.instagram.com/sandiegottrpgs"
+        },
+        {
+          "kind": "discord",
+          "url": "https://discord.gg/bYgKHzSsZT"
+        },
+        {
+          "kind": "other",
+          "url": "https://linktr.ee/SanDiegoTTRPGs"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "games-queerly-allies-board-gamers-sd",
+      "name": "Queerly Allies Board Gamers SD",
+      "description": "An LGBTQ+ (and allies) board gaming group building friendships through tabletop games. A safe, adults-only space for board and card games, located between Hillcrest and University Heights.",
+      "neighborhood": "hillcrest",
+      "address": "The Nash, 4135 Park Blvd, San Diego",
+      "frequency": "Sundays 1:00 PM",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "board games",
+        "card games",
+        "lgbtq+",
+        "adults only"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/queerly-allies-board-gamers-sd/"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "games-the-56-board-game-group",
+      "name": "The 56 Board Game Group",
+      "description": "An open, inclusive board gaming group hosting events within a few miles of the Route 56 corridor. Organizers love teaching games. Library events are open to all ages, including young kids.",
+      "neighborhood": "mira-mesa",
+      "address": "At Ease Games, 8400 Miramar Rd, San Diego; Pacific Highlands Ranch Library, 12911 Pacific Point Pl, San Diego",
+      "frequency": "Wednesdays 6:00 PM at At Ease Games; every other Saturday 1:00 PM at the library",
+      "cost": {
+        "kind": "fee",
+        "note": "$2 for At Ease Games events; some special events $10"
+      },
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "board games",
+        "beginner friendly",
+        "family friendly"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/the-56-board-game-group/"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "games-san-diego-mahjong-club",
+      "name": "San Diego Mahjong Club",
+      "description": "San Diego's largest mahjong club, focused on authentic Asian styles. Mainly plays Zung Jung, a beginner-friendly Chinese variant, plus Japanese Riichi and MCR.",
+      "neighborhood": "mira-mesa",
+      "address": "Ding Tea, 8280 Mira Mesa Blvd Suite C (Wed); AleSmith Brewing, 9990 AleSmith Ct (Sun); Friday venues rotate",
+      "frequency": "Wednesdays 6:00 PM, Fridays 5:00 PM, Sundays 11:00 AM",
+      "cost": {
+        "kind": "fee",
+        "note": "$5 per event"
+      },
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "mahjong",
+        "beginner friendly"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/san-diego-mahjong-club/"
+        },
+        {
+          "kind": "website",
+          "url": "https://sandiegomahjong.org/"
+        },
+        {
+          "kind": "discord",
+          "url": "https://discord.com/invite/zVDpqEMkh5"
+        },
+        {
+          "kind": "instagram",
+          "url": "https://www.instagram.com/sandiegomahjongclub/"
+        },
+        {
+          "kind": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=61581751774338"
+        },
+        {
+          "kind": "other",
+          "url": "https://linktr.ee/sandiegomahjongclub"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "games-rad-north-county",
+      "name": "RaD North County: Rockin' and Dancing Active Social Group",
+      "description": "A group of active people who love music, dancing and socializing, based mainly in North County. Besides dance events, they hold hikes, walks, happy hours, trivia and game nights.",
+      "neighborhood": "countywide",
+      "address": "Various North County venues (Escondido, Carlsbad, Encinitas, Solana Beach)",
+      "frequency": "",
+      "categories": [
+        "active",
+        "chill"
+      ],
+      "tags": [
+        "dancing",
+        "music",
+        "trivia",
+        "social"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/radnorthcounty/"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "games-san-diego-pinball-club",
+      "name": "San Diego Pinball Club",
+      "description": "Pinball fans of all ages and skill levels, from veterans to first-timers. Mostly promotes local tournaments and leagues. Some events are at 21+ venues.",
+      "neighborhood": "countywide",
+      "address": "Various: Brewski's Bar & Arcade (8760 Miramar Rd), Aero Club Bar, The Hills Pub (La Mesa), The Lost Abbey (Vista), The Brew Inn (Oceanside)",
+      "frequency": "Fall League every other Tuesday 6:30 PM at Brewski's; monthly tournaments at several bars",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "pinball",
+        "tournaments",
+        "beginner friendly",
+        "bar"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/san-diego-pinball-club/"
+        },
+        {
+          "kind": "facebook",
+          "url": "https://www.facebook.com/SanDiegoPinball"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "games-carlsbad-boardgame-meetup-group",
+      "name": "Carlsbad Boardgame Meetup Group",
+      "description": "A friendly, casual group that loves playing and teaching board games. Games are provided and you can bring your own. Food and drinks are for sale, and 10–20 people usually come.",
+      "neighborhood": "carlsbad",
+      "address": "Windmill Food Hall, 890 Palomar Airport Rd, Carlsbad",
+      "frequency": "Every Tuesday 5:00 PM",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "board games",
+        "beginner friendly",
+        "social"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/carlsbad-boardgame-meetup-group/"
+        },
+        {
+          "kind": "facebook",
+          "url": "https://www.facebook.com/Carlsbad-Boardgaming-Group-102416464557716"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "games-chess-and-social-encinitas",
+      "name": "Casual chess and board games in Encinitas 21+",
+      "description": "San Diego Chess & Social's Encinitas night, with 60–100 people on average. No chess experience needed. Backgammon, Uno, Wavelength and more.",
+      "neighborhood": "encinitas",
+      "address": "Union Kitchen & Tap, 1108 S Coast Hwy 101, Encinitas",
+      "frequency": "Every Wednesday 6:30 PM",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "chess",
+        "board games",
+        "21+",
+        "beginner friendly",
+        "bar"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/chess-and-games-in-north-county/"
+        },
+        {
+          "kind": "website",
+          "url": "https://www.chessandsocial.com"
+        },
+        {
+          "kind": "instagram",
+          "url": "https://www.instagram.com/sdchesssocial/"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "games-north-county-blood-on-the-clocktower",
+      "name": "North County Blood on the Clocktower",
+      "description": "Evenings of the social deduction game Blood on the Clocktower. All skill levels welcome, from seasoned players to newcomers.",
+      "neighborhood": "escondido",
+      "address": "The Tavern at Barley and Sword, 800 W Grand Ave, Escondido",
+      "frequency": "Every other Wednesday 6:00 PM",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "blood on the clocktower",
+        "social deduction",
+        "beginner friendly"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/north-county-blood-on-the-clocktower/"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "games-san-diego-north-county-board-games",
+      "name": "San Diego North County Board Games",
+      "description": "Play board and card games and meet others who love them. Members are encouraged to teach games they know and to host their own sessions.",
+      "neighborhood": "vista",
+      "address": "Pair A Dice Games, 2020 Hacienda Dr, Vista",
+      "frequency": "Sundays 12:30 PM",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "board games",
+        "card games"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/san-diego-north-county-game-group/"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "games-tabletop-meetup-boarding-home-cafe",
+      "name": "Tabletop Game Meetup at The Boarding Home Cafe",
+      "description": "Board games, card games and RPGs at The Boarding Home Game Cafe, from classics like Catan and Ticket to Ride to modern favorites. Good for experienced players and beginners.",
+      "neighborhood": "carlsbad",
+      "address": "The Boarding Home, 300 Carlsbad Village Dr #103, Carlsbad",
+      "frequency": "",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "board games",
+        "card games",
+        "tabletop rpg",
+        "beginner friendly",
+        "game cafe"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/tabletop-game-meetup-at-the-boarding-home-cafe/"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "games-north-county-gamers",
+      "name": "North County Gamers",
+      "description": "Aims to encourage more in-person gaming in North County by listing local gaming events and venues. Hosts video game nights, LAN parties and card swaps for all skill levels.",
+      "neighborhood": "san-marcos",
+      "address": "Pizza Port Tasting Room, 155 Mata Way Ste 104, San Marcos",
+      "frequency": "",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "video games",
+        "trading cards",
+        "brewery"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/north-county-gamers/"
+        },
+        {
+          "kind": "website",
+          "url": "https://www.northcountygamers.com"
+        },
+        {
+          "kind": "instagram",
+          "url": "https://www.instagram.com/NorthCountyGamers"
+        },
+        {
+          "kind": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=61563357497214"
+        },
+        {
+          "kind": "discord",
+          "url": "https://discord.gg/376JUNchu7"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "games-fun-of-san-diego",
+      "name": "Social, Hikes, Drinks, Games . . . FUN of San Diego",
+      "description": "A group for anyone who wants to have fun and meet people. The main events calendar is on SocialFundation.com.",
+      "neighborhood": "north-park",
+      "address": "Silvergate Three Stars Masonic, 3795 Utah St, San Diego",
+      "frequency": "Beginner line dancing & swing Mondays 6:30 PM; plus online events",
+      "categories": [
+        "active",
+        "chill"
+      ],
+      "tags": [
+        "social",
+        "dancing",
+        "beginner friendly"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/sandiegofun/"
+        },
+        {
+          "kind": "website",
+          "url": "http://www.socialfundation.com/"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "games-chess-and-social-pacific-beach",
+      "name": "Casual Chess & Board Games in PB! San Diego Chess & Social",
+      "description": "Weekly, very casual chess and board game night at a PB tavern, usually 70–140 people. Chess boards provided. Most players are new, but some are rated 2000+. Yahtzee, backgammon, Jenga and more, with $6 beers.",
+      "neighborhood": "pacific-beach",
+      "address": "Tavern at the Beach, 1200 Garnet Ave, Pacific Beach",
+      "frequency": "Weekly, Thursdays 6:30 PM",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "chess",
+        "board games",
+        "beginner friendly",
+        "bar"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/sdchesssocial-pb/"
+        },
+        {
+          "kind": "website",
+          "url": "https://www.chessandsocial.com"
+        },
+        {
+          "kind": "instagram",
+          "url": "https://www.instagram.com/sdchesssocial/"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "games-the-hoppy-dice",
+      "name": "The Hoppy Dice Board Game Nights!",
+      "description": "A pop-up that brings board game nights to San Diego bars and breweries, with 30+ games each night from a 70+ game collection. No experience needed. Come with friends or make new ones.",
+      "neighborhood": "countywide",
+      "address": "Rotating bars and breweries (e.g. Hopnonymous Normal Heights, Pure Project North Park, Burgeon at The Arbor, Ballast Point Little Italy, bar Ella PB)",
+      "frequency": "Several nights a week on a recurring schedule (subject to change; weekly schedule on Instagram)",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "board games",
+        "beginner friendly",
+        "brewery",
+        "social"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/the-hoppy-dice/"
+        },
+        {
+          "kind": "instagram",
+          "url": "https://www.instagram.com/thehoppydice/"
+        },
+        {
+          "kind": "facebook",
+          "url": "https://www.facebook.com/thehoppydice"
+        },
+        {
+          "kind": "other",
+          "url": "https://www.tiktok.com/@thehoppydice"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "games-pacific-puzzlers",
+      "name": "Pacific Puzzlers",
+      "description": "Competitive jigsaw puzzling and puzzle swaps at San Diego bars and breweries. Formats for individuals, pairs and teams. Register on their website.",
+      "neighborhood": "countywide",
+      "address": "Rotating: Original 40 Brewing (3117 University Ave), Elijah's (Clairemont), AleSmith Brewing (Miramar), Main Street Pour House (Vista)",
+      "frequency": "Mondays 6:00 PM; some midweek events in Vista",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "jigsaw puzzles",
+        "competition",
+        "brewery"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/pacificpuzzlers/"
+        },
+        {
+          "kind": "website",
+          "url": "http://www.pacificpuzzlers.com/"
+        },
+        {
+          "kind": "facebook",
+          "url": "https://www.facebook.com/pacificpuzzlers/"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "games-san-diego-lan",
+      "name": "The San Diego LAN Party Meetup Group",
+      "description": "Social PC gaming with a house-party feel, mixing strategy and FPS games. They also run the PC gaming rooms at local conventions.",
+      "neighborhood": "chula-vista",
+      "address": "San Diego LAN HQ, 4319 Corral Canyon Rd, Bonita",
+      "frequency": "Every other Sunday 1:00 PM",
+      "cost": {
+        "kind": "free",
+        "note": "Regular meetups free; special events like the LAN-A-THON have been $30"
+      },
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "pc gaming",
+        "lan party",
+        "video games"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/sandiegolan/"
+        },
+        {
+          "kind": "website",
+          "url": "https://SanDiegoLAN.net"
+        },
+        {
+          "kind": "discord",
+          "url": "https://discord.gg/AFcQBz4kPm"
+        },
+        {
+          "kind": "instagram",
+          "url": "https://www.instagram.com/sdlanparty/"
+        },
+        {
+          "kind": "facebook",
+          "url": "https://www.facebook.com/SanDiegoLan/"
+        },
+        {
+          "kind": "other",
+          "url": "https://twitch.com/SanDiegoLan"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "games-east-county-tabletop",
+      "name": "East County Tabletop Roleplaying and Board Games Group",
+      "description": "New and experienced gamers meet for board games and RPGs in a comfortable, welcoming setting. Families welcome. Anyone under 18 must come with an adult guardian.",
+      "neighborhood": "el-cajon",
+      "address": "Off The Shelf Games, 173 Fletcher Pkwy, El Cajon",
+      "frequency": "Sundays 12:00 PM open board gaming; Mondays 4:00 PM MTG Commander; Tuesdays 6:00 PM miniature war games",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "board games",
+        "tabletop rpg",
+        "magic: the gathering",
+        "miniatures",
+        "family friendly"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/east-county-tabletop-roleplaying-and-board-games-group/"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "games-san-diego-introverts-socializing",
+      "name": "San Diego Introverts Socializing",
+      "description": "For people who prefer quieter or smaller-group activities, such as board game nights, café craft hangouts and introvert happy hours.",
+      "neighborhood": "point-loma",
+      "address": "Liberty Public Market, 2820 Historic Decatur Rd, San Diego (game nights); Playground Art + Coffee, 3043 University Ave (other events)",
+      "frequency": "",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "introverts",
+        "board games",
+        "social"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/san-diego-introverts-socializing/"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "games-san-diego-singles-network",
+      "name": "San Diego Singles/Soloers Network",
+      "description": "Singles meeting new friends through fun activities around San Diego. Events include dinners, game nights, murder mysteries, scavenger hunts and speed dating.",
+      "neighborhood": "countywide",
+      "address": "Various (Casa de Maria in Old Town, Balboa Park, Mission Valley, Escondido, Encinitas)",
+      "frequency": "",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "singles",
+        "social",
+        "game night"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/san-diego-singles-network/"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    }
+  ],
+  "events": [
+    {
+      "id": "games-san-diego-social-chess-club-sat",
+      "group_id": "games-san-diego-social-chess-club",
+      "title": "Social Chess at Clairemont Town Square",
+      "description": "",
+      "neighborhood": "clairemont",
+      "location": "Clairemont Town Square, 4705 Clairemont Dr, San Diego (outside the former Reading Cinemas)",
+      "start": "2026-10-31T10:00:00",
+      "duration_minutes": 120,
+      "rrule": "FREQ=WEEKLY;BYDAY=SA",
+      "cost": {
+        "kind": "free",
+        "note": "Donations appreciated"
+      }
+    },
+    {
+      "id": "games-queerly-allies-board-gamers-sd-sun",
+      "group_id": "games-queerly-allies-board-gamers-sd",
+      "title": "Queerly Allies Board Games",
+      "description": "",
+      "neighborhood": "hillcrest",
+      "location": "The Nash, 4135 Park Blvd, San Diego",
+      "start": "2026-11-01T13:00:00",
+      "duration_minutes": 180,
+      "rrule": "FREQ=WEEKLY;BYDAY=SU"
+    },
+    {
+      "id": "games-the-56-board-game-group-wed",
+      "group_id": "games-the-56-board-game-group",
+      "title": "The 56 Board Game Night",
+      "description": "",
+      "neighborhood": "mira-mesa",
+      "location": "At Ease Games, 8400 Miramar Rd, San Diego",
+      "start": "2026-10-28T18:00:00",
+      "duration_minutes": 180,
+      "rrule": "FREQ=WEEKLY;BYDAY=WE",
+      "cost": {
+        "kind": "fee",
+        "note": "$2 at At Ease Games"
+      }
+    },
+    {
+      "id": "games-san-diego-mahjong-club-wed",
+      "group_id": "games-san-diego-mahjong-club",
+      "title": "Mahjong at Ding Tea",
+      "description": "",
+      "neighborhood": "mira-mesa",
+      "location": "Ding Tea, 8280 Mira Mesa Blvd Suite C, San Diego",
+      "start": "2026-10-28T18:00:00",
+      "duration_minutes": 180,
+      "rrule": "FREQ=WEEKLY;BYDAY=WE",
+      "cost": {
+        "kind": "fee",
+        "note": "$5 per event"
+      }
+    },
+    {
+      "id": "games-san-diego-mahjong-club-fri",
+      "group_id": "games-san-diego-mahjong-club",
+      "title": "Friday Mahjong",
+      "description": "",
+      "neighborhood": "mira-mesa",
+      "location": "Venue rotates; check their Meetup",
+      "start": "2026-10-30T17:00:00",
+      "duration_minutes": 180,
+      "rrule": "FREQ=WEEKLY;BYDAY=FR",
+      "cost": {
+        "kind": "fee",
+        "note": "$5 per event"
+      }
+    },
+    {
+      "id": "games-san-diego-mahjong-club-sun",
+      "group_id": "games-san-diego-mahjong-club",
+      "title": "Mahjong at AleSmith",
+      "description": "",
+      "neighborhood": "mira-mesa",
+      "location": "AleSmith Brewing, 9990 AleSmith Ct, San Diego",
+      "start": "2026-11-01T11:00:00",
+      "duration_minutes": 180,
+      "rrule": "FREQ=WEEKLY;BYDAY=SU",
+      "cost": {
+        "kind": "fee",
+        "note": "$5 per event"
+      }
+    },
+    {
+      "id": "games-carlsbad-boardgame-meetup-group-tue",
+      "group_id": "games-carlsbad-boardgame-meetup-group",
+      "title": "Carlsbad Board Game Night",
+      "description": "",
+      "neighborhood": "carlsbad",
+      "location": "Windmill Food Hall, 890 Palomar Airport Rd, Carlsbad",
+      "start": "2026-10-27T17:00:00",
+      "duration_minutes": 180,
+      "rrule": "FREQ=WEEKLY;BYDAY=TU"
+    },
+    {
+      "id": "games-chess-and-social-encinitas-wed",
+      "group_id": "games-chess-and-social-encinitas",
+      "title": "Chess & Social Encinitas (21+)",
+      "description": "",
+      "neighborhood": "encinitas",
+      "location": "Union Kitchen & Tap, 1108 S Coast Hwy 101, Encinitas",
+      "start": "2026-10-28T18:30:00",
+      "duration_minutes": 180,
+      "rrule": "FREQ=WEEKLY;BYDAY=WE"
+    },
+    {
+      "id": "games-san-diego-north-county-board-games-sun",
+      "group_id": "games-san-diego-north-county-board-games",
+      "title": "North County Board Games at Pair A Dice",
+      "description": "",
+      "neighborhood": "vista",
+      "location": "Pair A Dice Games, 2020 Hacienda Dr, Vista",
+      "start": "2026-11-01T12:30:00",
+      "duration_minutes": 180,
+      "rrule": "FREQ=WEEKLY;BYDAY=SU"
+    },
+    {
+      "id": "games-fun-of-san-diego-mon",
+      "group_id": "games-fun-of-san-diego",
+      "title": "Beginner Line Dancing & Swing",
+      "description": "",
+      "neighborhood": "north-park",
+      "location": "Silvergate Three Stars Masonic, 3795 Utah St, San Diego",
+      "start": "2026-11-02T18:30:00",
+      "duration_minutes": 120,
+      "rrule": "FREQ=WEEKLY;BYDAY=MO"
+    },
+    {
+      "id": "games-chess-and-social-pacific-beach-thu",
+      "group_id": "games-chess-and-social-pacific-beach",
+      "title": "Chess & Social PB",
+      "description": "",
+      "neighborhood": "pacific-beach",
+      "location": "Tavern at the Beach, 1200 Garnet Ave, Pacific Beach",
+      "start": "2026-10-29T18:30:00",
+      "duration_minutes": 180,
+      "rrule": "FREQ=WEEKLY;BYDAY=TH"
+    },
+    {
+      "id": "games-pacific-puzzlers-mon",
+      "group_id": "games-pacific-puzzlers",
+      "title": "Pacific Puzzlers Jigsaw Night",
+      "description": "",
+      "neighborhood": "countywide",
+      "location": "Rotating bars and breweries; check their website",
+      "start": "2026-11-02T18:00:00",
+      "duration_minutes": 120,
+      "rrule": "FREQ=WEEKLY;BYDAY=MO"
+    },
+    {
+      "id": "games-east-county-tabletop-sun",
+      "group_id": "games-east-county-tabletop",
+      "title": "Open Board Gaming at Off The Shelf",
+      "description": "",
+      "neighborhood": "el-cajon",
+      "location": "Off The Shelf Games, 173 Fletcher Pkwy, El Cajon",
+      "start": "2026-11-01T12:00:00",
+      "duration_minutes": 240,
+      "rrule": "FREQ=WEEKLY;BYDAY=SU"
+    },
+    {
+      "id": "games-east-county-tabletop-mon",
+      "group_id": "games-east-county-tabletop",
+      "title": "MTG Commander at Off The Shelf",
+      "description": "",
+      "neighborhood": "el-cajon",
+      "location": "Off The Shelf Games, 173 Fletcher Pkwy, El Cajon",
+      "start": "2026-11-02T16:00:00",
+      "duration_minutes": 180,
+      "rrule": "FREQ=WEEKLY;BYDAY=MO"
+    },
+    {
+      "id": "games-east-county-tabletop-tue",
+      "group_id": "games-east-county-tabletop",
+      "title": "Miniature War Games at Off The Shelf",
+      "description": "",
+      "neighborhood": "el-cajon",
+      "location": "Off The Shelf Games, 173 Fletcher Pkwy, El Cajon",
+      "start": "2026-10-27T18:00:00",
+      "duration_minutes": 180,
+      "rrule": "FREQ=WEEKLY;BYDAY=TU"
+    },
+    {
+      "id": "games-san-diego-pinball-club-fall-league",
+      "group_id": "games-san-diego-pinball-club",
+      "title": "Pinball Fall League at Brewski's",
+      "description": "",
+      "neighborhood": "mira-mesa",
+      "location": "Brewski's Bar & Arcade, 8760 Miramar Rd, San Diego",
+      "start": "2026-11-03T18:30:00",
+      "duration_minutes": 180,
+      "rrule": "FREQ=WEEKLY;INTERVAL=2;BYDAY=TU"
+    },
+    {
+      "id": "games-north-county-blood-on-the-clocktower-wed",
+      "group_id": "games-north-county-blood-on-the-clocktower",
+      "title": "Blood on the Clocktower at Barley and Sword",
+      "description": "",
+      "neighborhood": "escondido",
+      "location": "The Tavern at Barley and Sword, 800 W Grand Ave, Escondido",
+      "start": "2026-11-04T18:00:00",
+      "duration_minutes": 180,
+      "rrule": "FREQ=WEEKLY;INTERVAL=2;BYDAY=WE"
+    },
+    {
+      "id": "games-san-diego-lan-sun",
+      "group_id": "games-san-diego-lan",
+      "title": "LAN Party at SDL HQ",
+      "description": "",
+      "neighborhood": "chula-vista",
+      "location": "San Diego LAN HQ, 4319 Corral Canyon Rd, Bonita",
+      "start": "2026-11-08T13:00:00",
+      "duration_minutes": 360,
+      "rrule": "FREQ=WEEKLY;INTERVAL=2;BYDAY=SU",
+      "cost": {
+        "kind": "free",
+        "note": "Regular meetups free; special events like the LAN-A-THON have been $30"
+      }
+    },
+    {
+      "id": "games-the-56-board-game-group-library",
+      "group_id": "games-the-56-board-game-group",
+      "title": "Everyone Plays @ Pacific Highlands Ranch Library",
+      "description": "",
+      "neighborhood": "del-mar",
+      "location": "Pacific Highlands Ranch Library, 12911 Pacific Point Pl, San Diego",
+      "start": "2026-11-14T13:00:00",
+      "duration_minutes": 180,
+      "rrule": "FREQ=WEEKLY;INTERVAL=2;BYDAY=SA",
+      "cost": {
+        "kind": "free"
+      }
+    },
+    {
+      "id": "games-san-diego-pinball-club-launch-1027",
+      "group_id": "games-san-diego-pinball-club",
+      "title": "Beetlejuice/Sonic Pinball Launch Party",
+      "description": "",
+      "neighborhood": "mira-mesa",
+      "location": "Brewski's Bar & Arcade, 8760 Miramar Rd, San Diego",
+      "start": "2026-10-27T18:30:00",
+      "duration_minutes": 180
+    },
+    {
+      "id": "games-san-diego-pinball-club-strikes-1107",
+      "group_id": "games-san-diego-pinball-club",
+      "title": "Saturday Strikes @ Lost Abbey Vista",
+      "description": "",
+      "neighborhood": "vista",
+      "location": "The Lost Abbey, 1347 Keystone Way Suite C, Vista",
+      "start": "2026-11-07T13:00:00",
+      "duration_minutes": 180
+    },
+    {
+      "id": "games-san-diego-pinball-club-aero-1110",
+      "group_id": "games-san-diego-pinball-club",
+      "title": "Aero Club Monthly Pinball Tournament",
+      "description": "",
+      "neighborhood": "little-italy",
+      "location": "Aero Club Bar, 3365 India St, San Diego",
+      "start": "2026-11-10T18:30:00",
+      "duration_minutes": 180
+    },
+    {
+      "id": "games-the-56-board-game-group-halloween-1030",
+      "group_id": "games-the-56-board-game-group",
+      "title": "Halloween BOOard Games",
+      "description": "",
+      "neighborhood": "mira-mesa",
+      "location": "Venue not posted yet; check their Meetup",
+      "start": "2026-10-30T18:00:00",
+      "duration_minutes": 180,
+      "cost": {
+        "kind": "fee",
+        "note": "$2 for At Ease Games events; some special events $10"
+      }
+    },
+    {
+      "id": "games-san-diego-roleplaying-association-dice-drafts-1028",
+      "group_id": "games-san-diego-roleplaying-association",
+      "title": "Dice & Drafts at Forbidden Cove",
+      "description": "",
+      "neighborhood": "kearny-mesa",
+      "location": "Forbidden Cove, 7576 Clairemont Mesa Blvd, San Diego",
+      "start": "2026-10-28T17:30:00",
+      "duration_minutes": 180
+    },
+    {
+      "id": "games-san-diego-roleplaying-association-raven-1031",
+      "group_id": "games-san-diego-roleplaying-association",
+      "title": "Raven: Dead Man's Party",
+      "description": "",
+      "neighborhood": "kearny-mesa",
+      "location": "Tea n More, 7380 Clairemont Mesa Blvd #111, San Diego",
+      "start": "2026-10-31T12:00:00",
+      "duration_minutes": 240
+    },
+    {
+      "id": "games-san-diego-roleplaying-association-traveller-1101",
+      "group_id": "games-san-diego-roleplaying-association",
+      "title": "Traveller RPG: Ongoing Campaign",
+      "description": "",
+      "neighborhood": "el-cajon",
+      "location": "Off The Shelf Games, 173 Fletcher Pkwy, El Cajon",
+      "start": "2026-11-01T13:00:00",
+      "duration_minutes": 240
+    },
+    {
+      "id": "games-san-diego-roleplaying-association-gm-meetup-1114",
+      "group_id": "games-san-diego-roleplaying-association",
+      "title": "RPG Chat & Play: GM Meetup",
+      "description": "",
+      "neighborhood": "kearny-mesa",
+      "location": "Tea n More, 7380 Clairemont Mesa Blvd #111, San Diego",
+      "start": "2026-11-14T11:00:00",
+      "duration_minutes": 180
+    },
+    {
+      "id": "games-rad-north-county-bocce-1027",
+      "group_id": "games-rad-north-county",
+      "title": "Bocce Ball",
+      "description": "",
+      "neighborhood": "encinitas",
+      "location": "1221 Encinitas Blvd, Encinitas",
+      "start": "2026-10-27T18:00:00",
+      "duration_minutes": 120
+    },
+    {
+      "id": "games-rad-north-county-trivia-1027",
+      "group_id": "games-rad-north-county",
+      "title": "Tuesday Trivia at Grand Comedy Club & Pizzeria",
+      "description": "",
+      "neighborhood": "escondido",
+      "location": "Grand Comedy at North County Fair, 200 E Via Rancho Pkwy #125, Escondido",
+      "start": "2026-10-27T18:00:00",
+      "duration_minutes": 150
+    },
+    {
+      "id": "games-rad-north-county-bingo-1028",
+      "group_id": "games-rad-north-county",
+      "title": "Halloween Hits Music Bingo at Orfila Winery",
+      "description": "",
+      "neighborhood": "escondido",
+      "location": "Orfila Vineyards and Winery, 13455 San Pasqual Rd, Escondido",
+      "start": "2026-10-28T17:30:00",
+      "duration_minutes": 150
+    },
+    {
+      "id": "games-rad-north-county-trivia-1028",
+      "group_id": "games-rad-north-county",
+      "title": "Trivia at Pizza Port Bressi Ranch",
+      "description": "",
+      "neighborhood": "carlsbad",
+      "location": "Pizza Port Bressi Ranch, 2730 Gateway Rd, Carlsbad",
+      "start": "2026-10-28T18:00:00",
+      "duration_minutes": 150
+    },
+    {
+      "id": "games-tabletop-meetup-boarding-home-cafe-dread-1029",
+      "group_id": "games-tabletop-meetup-boarding-home-cafe",
+      "title": "Halloween TTRPG: DREAD",
+      "description": "",
+      "neighborhood": "carlsbad",
+      "location": "The Boarding Home, 300 Carlsbad Village Dr #103, Carlsbad",
+      "start": "2026-10-29T18:00:00",
+      "duration_minutes": 180
+    },
+    {
+      "id": "games-north-county-gamers-night-1107",
+      "group_id": "games-north-county-gamers",
+      "title": "North County Gamers Night",
+      "description": "",
+      "neighborhood": "san-marcos",
+      "location": "Pizza Port Tasting Room, 155 Mata Way Ste 104, San Marcos",
+      "start": "2026-11-07T16:00:00",
+      "duration_minutes": 300
+    },
+    {
+      "id": "games-the-hoppy-dice-hopnonymous-1028",
+      "group_id": "games-the-hoppy-dice",
+      "title": "Board Game Night at Hopnonymous Normal Heights",
+      "description": "",
+      "neighborhood": "north-park",
+      "location": "Hopnonymous Brewing, 3514 Adams Ave, San Diego (Normal Heights)",
+      "start": "2026-10-28T17:00:00",
+      "duration_minutes": 180
+    },
+    {
+      "id": "games-the-hoppy-dice-pure-project-1102",
+      "group_id": "games-the-hoppy-dice",
+      "title": "Board Game Night at Pure Project North Park",
+      "description": "",
+      "neighborhood": "north-park",
+      "location": "Pure Project, 2867 El Cajon Blvd, San Diego",
+      "start": "2026-11-02T17:00:00",
+      "duration_minutes": 180
+    },
+    {
+      "id": "games-the-hoppy-dice-taproom-1109",
+      "group_id": "games-the-hoppy-dice",
+      "title": "Board Game Night at TapRoom North Park",
+      "description": "",
+      "neighborhood": "north-park",
+      "location": "TapRoom North Park (address not posted yet)",
+      "start": "2026-11-09T18:00:00",
+      "duration_minutes": 180
+    },
+    {
+      "id": "games-the-hoppy-dice-burgeon-1110",
+      "group_id": "games-the-hoppy-dice",
+      "title": "Board Game Night at Burgeon at The Arbor",
+      "description": "",
+      "neighborhood": "little-italy",
+      "location": "Burgeon at The Arbor, 1326 Kettner Blvd, San Diego",
+      "start": "2026-11-10T17:30:00",
+      "duration_minutes": 180
+    },
+    {
+      "id": "games-san-diego-introverts-socializing-game-night-1027",
+      "group_id": "games-san-diego-introverts-socializing",
+      "title": "Get Your Board Game On: Game Night",
+      "description": "",
+      "neighborhood": "point-loma",
+      "location": "Liberty Public Market, 2820 Historic Decatur Rd, San Diego",
+      "start": "2026-10-27T18:00:00",
+      "duration_minutes": 180
+    },
+    {
+      "id": "games-san-diego-introverts-socializing-craft-1113",
+      "group_id": "games-san-diego-introverts-socializing",
+      "title": "Craft and Hang Out at Cafe",
+      "description": "",
+      "neighborhood": "north-park",
+      "location": "Playground Art + Coffee, 3043 University Ave, San Diego",
+      "start": "2026-11-13T18:30:00",
+      "duration_minutes": 150
+    },
+    {
+      "id": "games-san-diego-singles-network-pumpkins-1029",
+      "group_id": "games-san-diego-singles-network",
+      "title": "Adults Only Pumpkin Carving Party & Contest",
+      "description": "",
+      "neighborhood": "mission-valley",
+      "location": "Casa de Maria Restaurant, 2611 San Diego Ave, San Diego (Old Town)",
+      "start": "2026-10-29T19:00:00",
+      "duration_minutes": 180
+    },
+    {
+      "id": "games-san-diego-singles-network-debate-1030",
+      "group_id": "games-san-diego-singles-network",
+      "title": "Guys vs. Gals Debate and Dinner Party",
+      "description": "",
+      "neighborhood": "balboa-park",
+      "location": "Artifact at Mingei, 1439 El Prado, Balboa Park",
+      "start": "2026-10-30T18:30:00",
+      "duration_minutes": 180
+    },
+    {
+      "id": "games-san-diego-singles-network-mystery-1031",
+      "group_id": "games-san-diego-singles-network",
+      "title": "Murder Mystery: Murder at the Haunted Hotel Halloween Party",
+      "description": "",
+      "neighborhood": "mission-valley",
+      "location": "Novo Brazil Brewing, 1640 Camino Del Rio N Ste 341, San Diego",
+      "start": "2026-10-31T18:30:00",
+      "duration_minutes": 210
+    },
+    {
+      "id": "games-san-diego-singles-network-dinner-games-1105",
+      "group_id": "games-san-diego-singles-network",
+      "title": "Group Dinner & Game Night at Casa de Maria",
+      "description": "",
+      "neighborhood": "mission-valley",
+      "location": "Casa de Maria Restaurant, 2611 San Diego Ave, San Diego (Old Town)",
+      "start": "2026-11-05T18:00:00",
+      "duration_minutes": 180
+    }
+  ]
+}

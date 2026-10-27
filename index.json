@@ -1,0 +1,40 @@
+{
+  "format": 1,
+  "lists": [
+    {
+      "id": "found-online-cars-and-coffee",
+      "name": "Cars & Coffee Meetups",
+      "description": "Cars and coffee meetups around San Diego County.",
+      "region": "SanDiegoCounty",
+      "url": "https://vishaldpatel.github.io/social-group-and-event-lists/SanDiegoCounty/cars-and-coffee.json"
+    },
+    {
+      "id": "found-online-game-nights",
+      "name": "Game Nights",
+      "description": "Trivia and bingo nights around San Diego County, from sunsettrivia.com and duckfootbeer.com.",
+      "region": "SanDiegoCounty",
+      "url": "https://vishaldpatel.github.io/social-group-and-event-lists/SanDiegoCounty/game-nights.json"
+    },
+    {
+      "id": "found-online-group-classes",
+      "name": "Group Classes",
+      "description": "Hands-on classes you take with others, like cooking classes, from duckfootbeer.com.",
+      "region": "SanDiegoCounty",
+      "url": "https://vishaldpatel.github.io/social-group-and-event-lists/SanDiegoCounty/group-classes.json"
+    },
+    {
+      "id": "meetup-groups-gaming",
+      "name": "Meetup Groups - Gaming",
+      "description": "Board game, chess, RPG, mahjong, pinball, puzzle and video game groups around San Diego County, collected from their Meetup pages.",
+      "region": "SanDiegoCounty",
+      "url": "https://vishaldpatel.github.io/social-group-and-event-lists/SanDiegoCounty/meetup-groups-for-gaming.json"
+    },
+    {
+      "id": "found-online-run-clubs",
+      "name": "Run Clubs",
+      "description": "Run clubs collected from sandiegorunningco.com and each club's own pages.",
+      "region": "SanDiegoCounty",
+      "url": "https://vishaldpatel.github.io/social-group-and-event-lists/SanDiegoCounty/run-clubs.json"
+    }
+  ]
+}
