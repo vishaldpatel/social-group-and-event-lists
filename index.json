@@ -27,14 +27,16 @@
       "name": "Meetup Groups - Gaming",
       "description": "Board game, chess, RPG, mahjong, pinball, puzzle and video game groups around San Diego County, collected from their Meetup pages.",
       "region": "SanDiegoCounty",
-      "url": "https://vishaldpatel.github.io/social-group-and-event-lists/SanDiegoCounty/meetup-groups-for-gaming.json"
+      "url": "https://vishaldpatel.github.io/social-group-and-event-lists/SanDiegoCounty/meetup-groups-for-gaming.json",
+      "default_on": false
     },
     {
       "id": "meetup-groups-sports",
       "name": "Meetup Groups - Sports",
       "description": "Soccer, running, pickleball, tennis, golf, fencing and beach volleyball groups around San Diego County, found through Meetup's sports searches.",
       "region": "SanDiegoCounty",
-      "url": "https://vishaldpatel.github.io/social-group-and-event-lists/SanDiegoCounty/meetup-groups-for-sports.json"
+      "url": "https://vishaldpatel.github.io/social-group-and-event-lists/SanDiegoCounty/meetup-groups-for-sports.json",
+      "default_on": false
     },
     {
       "id": "found-online-run-clubs",
