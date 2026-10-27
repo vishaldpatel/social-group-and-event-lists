@@ -1,0 +1,879 @@
+{
+  "format": 1,
+  "id": "meetup-groups-sports",
+  "name": "Meetup Groups - Sports",
+  "description": "Soccer, running, pickleball, tennis, golf, fencing and beach volleyball groups around San Diego County, found through Meetup's sports searches.",
+  "updated_at": "2026-10-27T19:03:40Z",
+  "groups": [
+    {
+      "id": "sports-encinitas-pickleball",
+      "name": "Encinitas Pickleball",
+      "description": "Pickleball for all levels, built on encouragement and kindness. New players are asked to spend 10 minutes learning the basics first.",
+      "neighborhood": "encinitas",
+      "address": "Cottonwood Creek Park, 95 N Vulcan Ave, Encinitas (under the Court #1 sign, west side)",
+      "frequency": "Tuesdays 3:30–5:30 PM",
+      "cost": {
+        "kind": "free"
+      },
+      "categories": [
+        "active"
+      ],
+      "tags": [
+        "pickleball",
+        "beginner friendly"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/encinitas-pickleball/"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "sports-meetup-all-welcome",
+      "name": "Sports Meetup, All Welcome",
+      "description": "Emmanuel Faith Community Church's outreach group for adults and families to stay active through soccer, basketball, fencing and hiking. All skill levels welcome.",
+      "neighborhood": "escondido",
+      "address": "Emmanuel Faith Community Church, 639 E 17th Ave, Escondido",
+      "frequency": "Fencing every other Monday 7–9 PM",
+      "cost": {
+        "kind": "free"
+      },
+      "categories": [
+        "active"
+      ],
+      "tags": [
+        "fencing",
+        "beginner friendly",
+        "family friendly"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/sports-meetup-all-welcome/"
+        },
+        {
+          "kind": "website",
+          "url": "https://www.efcc.org/"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "sports-san-diego-social-golf",
+      "name": "San Diego Social Golf",
+      "description": "A coed social golf group for all skill levels since 2006, with weekday and weekend rounds, tournaments and discounted green fees. Has an optional Low Net league.",
+      "neighborhood": "countywide",
+      "address": "Courses around the county",
+      "frequency": "Several rounds a month, weekdays and weekends",
+      "cost": {
+        "kind": "membership",
+        "note": "$85 a year, plus each course's green fees"
+      },
+      "categories": [
+        "active"
+      ],
+      "tags": [
+        "golf",
+        "coed",
+        "beginner friendly",
+        "tournaments"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/san-diego-social-golf/"
+        },
+        {
+          "kind": "facebook",
+          "url": "http://www.facebook.com/Sandiegosocialgolfgroup"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "sports-sd-tennis",
+      "name": "SD Tennis",
+      "description": "Daily pickup tennis for every level, split into Beginners (2.0-), Intermediate (2.5+) and Advanced (4.0+) games.",
+      "neighborhood": "carlsbad",
+      "address": "Public courts in Carlsbad and Oceanside",
+      "frequency": "Most days, split by level",
+      "cost": {
+        "kind": "membership",
+        "note": "$30 a year after a 14-day free trial"
+      },
+      "categories": [
+        "active"
+      ],
+      "tags": [
+        "tennis",
+        "beginner friendly"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/sd-tennis/"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "sports-oceanside-dink-rally",
+      "name": "Oceanside Dink & Rally",
+      "description": "Weekly social pickleball for beginners through intermediate players in North County.",
+      "neighborhood": "oceanside",
+      "address": "Melba Bishop Recreation Center, 5306 North River Rd, Oceanside",
+      "frequency": "Mondays 5:15–7:30 PM",
+      "cost": {
+        "kind": "free",
+        "note": "first visit free; then a $5 donation every other month"
+      },
+      "categories": [
+        "active"
+      ],
+      "tags": [
+        "pickleball",
+        "beginner friendly"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/oceanside-dink-rally/"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "sports-vbos-beach-volleyball",
+      "name": "VBOS Beach Volleyball",
+      "description": "Volleyball Oceanside runs beach volleyball leagues, clinics, tournaments and social events for beginners and experienced players.",
+      "neighborhood": "carlsbad",
+      "address": "Warm Water beach volleyball courts, south of Lifeguard Tower 32, 4355 Carlsbad Blvd, Carlsbad",
+      "frequency": "Classes and clinics most days",
+      "cost": {
+        "kind": "fee",
+        "note": "$24.99 drop-in"
+      },
+      "categories": [
+        "active"
+      ],
+      "tags": [
+        "volleyball",
+        "beach",
+        "footvolley",
+        "beginner friendly",
+        "classes"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/vbosbeach/"
+        },
+        {
+          "kind": "website",
+          "url": "https://www.volleyballoceanside.com"
+        },
+        {
+          "kind": "instagram",
+          "url": "https://www.instagram.com/vbosbeach/"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "sports-balboa-park-soccer",
+      "name": "Balboa Park Saturday Morning Soccer",
+      "description": "Pickup 8-on-8 soccer at Balboa Park with three rotating teams. Spots are capped per game, so RSVP on Meetup.",
+      "neighborhood": "balboa-park",
+      "address": "War Memorial Building, Park Blvd, Balboa Park",
+      "frequency": "Wednesdays 5:00 PM, Saturdays 8:45 AM",
+      "cost": {
+        "kind": "free",
+        "note": "$10 one-time donation the first time you play"
+      },
+      "categories": [
+        "active"
+      ],
+      "tags": [
+        "soccer",
+        "pickup",
+        "coed"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/balboa-park-saturday-morning-soccer/"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "sports-sd-fun-run",
+      "name": "SD Fun Run",
+      "description": "A social running group for people in their 20s and 30s. Each Wednesday they run about 4 miles from a different bar and finish there for drinks. All paces welcome.",
+      "neighborhood": "countywide",
+      "address": "A different bar each week",
+      "frequency": "Wednesdays 7:00 PM",
+      "cost": {
+        "kind": "free"
+      },
+      "categories": [
+        "active"
+      ],
+      "tags": [
+        "running",
+        "social",
+        "bar",
+        "20s and 30s"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/sd-fun-run/"
+        },
+        {
+          "kind": "instagram",
+          "url": "https://www.instagram.com/sdfunrun/"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "sports-casual-coed-soccer",
+      "name": "Casual Coed Soccer",
+      "description": "Casual, coed, non-competitive soccer for adults 18+, mostly intermediate and advanced players but all levels welcome. No referees; players call their own fouls.",
+      "neighborhood": "countywide",
+      "address": "Liberty Station and Snapdragon Stadium's River Park",
+      "frequency": "Tuesdays and Thursdays 5:00 PM at Liberty Station; Thursdays 4:30 PM and Sundays 8:00 AM beginner-friendly at Snapdragon",
+      "cost": {
+        "kind": "free",
+        "note": "donations welcome"
+      },
+      "categories": [
+        "active"
+      ],
+      "tags": [
+        "soccer",
+        "pickup",
+        "coed",
+        "beginner friendly"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/casual-soccer/"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "sports-volleyball-for-a-cause",
+      "name": "San Diego Volleyball for a Cause",
+      "description": "Weekly beach volleyball for intermediate players and up, raising money for local and global causes. Teams are matched by skill.",
+      "neighborhood": "countywide",
+      "address": "Mission Beach (Tuesdays) and Ocean Beach (Fridays)",
+      "frequency": "Tuesdays and Fridays 4:00 PM",
+      "cost": {
+        "kind": "free",
+        "note": "optional donations; half go to the week's charity"
+      },
+      "categories": [
+        "active"
+      ],
+      "tags": [
+        "volleyball",
+        "beach",
+        "charity",
+        "intermediate"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/san-diego-volleyball-for-charity/"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "sports-soccer-at-snap",
+      "name": "Soccer at Snap",
+      "description": "Intermediate and advanced pickup soccer several days a week, on big fields with full-size goals in the parks next to Snapdragon Stadium.",
+      "neighborhood": "mission-valley",
+      "address": "Parks around Snapdragon Stadium and SDSU",
+      "frequency": "Tuesdays, Thursdays 4:30 PM; Wednesdays 3:30 PM at SDSU; Saturdays 8:00 AM",
+      "cost": {
+        "kind": "free"
+      },
+      "categories": [
+        "active"
+      ],
+      "tags": [
+        "soccer",
+        "pickup",
+        "intermediate"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/soccer-at-snap/"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "sports-coronado-soccer",
+      "name": "Coronado Soccer",
+      "description": "Weekly coed soccer for all skill levels, with goals, pinnies and cones provided. No hard tackles or sliding. RSVP on Meetup to play.",
+      "neighborhood": "coronado",
+      "address": "Sunset Park, Ocean Blvd, Coronado",
+      "frequency": "Sundays 5:00–7:00 PM",
+      "cost": {
+        "kind": "free",
+        "note": "$5 a game, or $20 for six months, the first time"
+      },
+      "categories": [
+        "active"
+      ],
+      "tags": [
+        "soccer",
+        "pickup",
+        "coed",
+        "beginner friendly"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/coronado-%EF%B8%8F-soccer/"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    },
+    {
+      "id": "sports-social-soccer-mission-bay",
+      "name": "Social Soccer on Mission Bay",
+      "description": "Pickup soccer every Saturday at Ski Beach on Mission Bay.",
+      "neighborhood": "mission-bay",
+      "address": "Ski Beach, 1600 Vacation Rd, San Diego",
+      "frequency": "Saturdays 9:00 AM",
+      "cost": {
+        "kind": "free",
+        "note": "$5 Venmo donation suggested the first time"
+      },
+      "categories": [
+        "active"
+      ],
+      "tags": [
+        "soccer",
+        "pickup",
+        "coed"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/socialsoccermbsd/"
+        }
+      ],
+      "last_verified": "2026-10-27"
+    }
+  ],
+  "events": [
+    {
+      "id": "sports-encinitas-pickleball-tue",
+      "group_id": "sports-encinitas-pickleball",
+      "title": "Encinitas Pickleball",
+      "description": "",
+      "neighborhood": "encinitas",
+      "location": "Cottonwood Creek Park, 95 N Vulcan Ave, Encinitas (under the Court #1 sign, west side)",
+      "start": "2026-10-27T15:30:00",
+      "duration_minutes": 120,
+      "cost": {
+        "kind": "free"
+      },
+      "rrule": "FREQ=WEEKLY;BYDAY=TU",
+      "url": "https://www.meetup.com/encinitas-pickleball/events/316395713/"
+    },
+    {
+      "id": "sports-meetup-all-welcome-fencing",
+      "group_id": "sports-meetup-all-welcome",
+      "title": "Fencing Instruction",
+      "description": "",
+      "neighborhood": "escondido",
+      "location": "Emmanuel Faith Community Church, 639 E 17th Ave, Escondido",
+      "start": "2026-11-02T19:00:00",
+      "duration_minutes": 120,
+      "cost": {
+        "kind": "free"
+      },
+      "rrule": "FREQ=WEEKLY;BYDAY=MO;INTERVAL=2",
+      "url": "https://www.meetup.com/sports-meetup-all-welcome/events/315864816/"
+    },
+    {
+      "id": "sports-oceanside-dink-rally-mon",
+      "group_id": "sports-oceanside-dink-rally",
+      "title": "Social Pickleball in Oceanside",
+      "description": "",
+      "neighborhood": "oceanside",
+      "location": "Melba Bishop Recreation Center, 5306 North River Rd, Oceanside",
+      "start": "2026-11-02T17:15:00",
+      "duration_minutes": 135,
+      "cost": {
+        "kind": "free",
+        "note": "first visit free; then a $5 donation every other month"
+      },
+      "rrule": "FREQ=WEEKLY;BYDAY=MO",
+      "url": "https://www.meetup.com/oceanside-dink-rally/events/316967778/"
+    },
+    {
+      "id": "sports-vbos-beach-volleyball-competitive-mon",
+      "group_id": "sports-vbos-beach-volleyball",
+      "title": "Competitive Coed Beach Volleyball Class",
+      "description": "",
+      "neighborhood": "carlsbad",
+      "location": "Warm Water beach volleyball courts, south of Lifeguard Tower 32, 4355 Carlsbad Blvd, Carlsbad",
+      "start": "2026-11-02T18:00:00",
+      "duration_minutes": 90,
+      "cost": {
+        "kind": "fee",
+        "note": "$24.99 drop-in"
+      },
+      "rrule": "FREQ=WEEKLY;BYDAY=MO",
+      "url": "https://www.meetup.com/vbosbeach/events/316969698/"
+    },
+    {
+      "id": "sports-vbos-beach-volleyball-beginners-wed",
+      "group_id": "sports-vbos-beach-volleyball",
+      "title": "Beginners Coed Beach Volleyball Class (18+)",
+      "description": "",
+      "neighborhood": "carlsbad",
+      "location": "Warm Water beach volleyball courts, south of Lifeguard Tower 32, 4355 Carlsbad Blvd, Carlsbad",
+      "start": "2026-10-28T18:00:00",
+      "duration_minutes": 90,
+      "cost": {
+        "kind": "fee",
+        "note": "$24.99 drop-in"
+      },
+      "rrule": "FREQ=WEEKLY;BYDAY=WE"
+    },
+    {
+      "id": "sports-vbos-beach-volleyball-beginners-fri",
+      "group_id": "sports-vbos-beach-volleyball",
+      "title": "Beginners Coed Beach Volleyball Class (18+)",
+      "description": "",
+      "neighborhood": "carlsbad",
+      "location": "Warm Water beach volleyball courts, south of Lifeguard Tower 32, 4355 Carlsbad Blvd, Carlsbad",
+      "start": "2026-10-30T16:00:00",
+      "duration_minutes": 120,
+      "cost": {
+        "kind": "fee",
+        "note": "$24.99 drop-in"
+      },
+      "rrule": "FREQ=WEEKLY;BYDAY=FR"
+    },
+    {
+      "id": "sports-vbos-beach-volleyball-footvolley-fri",
+      "group_id": "sports-vbos-beach-volleyball",
+      "title": "VBOS Footvolley Experience",
+      "description": "",
+      "neighborhood": "carlsbad",
+      "location": "Warm Water beach volleyball courts, south of Lifeguard Tower 32, 4355 Carlsbad Blvd, Carlsbad",
+      "start": "2026-10-30T18:00:00",
+      "duration_minutes": 60,
+      "cost": {
+        "kind": "fee",
+        "note": "$24.99 drop-in"
+      },
+      "rrule": "FREQ=WEEKLY;BYDAY=FR",
+      "url": "https://www.meetup.com/vbosbeach/events/316929846/"
+    },
+    {
+      "id": "sports-vbos-beach-volleyball-clinic-sun",
+      "group_id": "sports-vbos-beach-volleyball",
+      "title": "Beginner Beach Volleyball Clinic",
+      "description": "",
+      "neighborhood": "carlsbad",
+      "location": "Warm Water beach volleyball courts, south of Lifeguard Tower 32, 4355 Carlsbad Blvd, Carlsbad",
+      "start": "2026-11-01T09:00:00",
+      "duration_minutes": 120,
+      "cost": {
+        "kind": "fee",
+        "note": "$25 drop-in"
+      },
+      "rrule": "FREQ=WEEKLY;BYDAY=SU"
+    },
+    {
+      "id": "sports-balboa-park-soccer-wed",
+      "group_id": "sports-balboa-park-soccer",
+      "title": "Balboa Park Wednesday Soccer",
+      "description": "",
+      "neighborhood": "balboa-park",
+      "location": "War Memorial Building, Park Blvd, Balboa Park",
+      "start": "2026-10-28T17:00:00",
+      "duration_minutes": 120,
+      "cost": {
+        "kind": "free",
+        "note": "$10 one-time donation the first time you play"
+      },
+      "rrule": "FREQ=WEEKLY;BYDAY=WE",
+      "url": "https://www.meetup.com/balboa-park-saturday-morning-soccer/events/316204748/"
+    },
+    {
+      "id": "sports-balboa-park-soccer-sat",
+      "group_id": "sports-balboa-park-soccer",
+      "title": "Balboa Park Saturday Morning Soccer",
+      "description": "",
+      "neighborhood": "balboa-park",
+      "location": "War Memorial Building, Park Blvd, Balboa Park",
+      "start": "2026-10-31T08:45:00",
+      "duration_minutes": 120,
+      "cost": {
+        "kind": "free",
+        "note": "$10 one-time donation the first time you play"
+      },
+      "rrule": "FREQ=WEEKLY;BYDAY=SA",
+      "url": "https://www.meetup.com/balboa-park-saturday-morning-soccer/events/315637852/"
+    },
+    {
+      "id": "sports-sd-fun-run-wed",
+      "group_id": "sports-sd-fun-run",
+      "title": "Run & Chug",
+      "description": "",
+      "neighborhood": "countywide",
+      "location": "A different bar each week; see their Meetup",
+      "start": "2026-10-28T19:00:00",
+      "duration_minutes": 120,
+      "cost": {
+        "kind": "free"
+      },
+      "rrule": "FREQ=WEEKLY;BYDAY=WE",
+      "url": "https://www.meetup.com/sd-fun-run/events/316645007/"
+    },
+    {
+      "id": "sports-casual-coed-soccer-liberty-tue",
+      "group_id": "sports-casual-coed-soccer",
+      "title": "Casual Coed Soccer at Liberty Station",
+      "description": "",
+      "neighborhood": "point-loma",
+      "location": "Liberty Station, 2665 Cushing Rd, San Diego",
+      "start": "2026-10-27T17:00:00",
+      "duration_minutes": 120,
+      "cost": {
+        "kind": "free",
+        "note": "donations welcome"
+      },
+      "rrule": "FREQ=WEEKLY;BYDAY=TU",
+      "url": "https://www.meetup.com/casual-soccer/events/316890423/"
+    },
+    {
+      "id": "sports-casual-coed-soccer-liberty-thu",
+      "group_id": "sports-casual-coed-soccer",
+      "title": "Casual Coed Soccer at Liberty Station",
+      "description": "",
+      "neighborhood": "point-loma",
+      "location": "Liberty Station, 2665 Cushing Rd, San Diego",
+      "start": "2026-10-29T17:00:00",
+      "duration_minutes": 120,
+      "cost": {
+        "kind": "free",
+        "note": "donations welcome"
+      },
+      "rrule": "FREQ=WEEKLY;BYDAY=TH"
+    },
+    {
+      "id": "sports-casual-coed-soccer-snap-thu",
+      "group_id": "sports-casual-coed-soccer",
+      "title": "Beginner-friendly Coed Soccer at Snapdragon",
+      "description": "",
+      "neighborhood": "mission-valley",
+      "location": "SDSU Mission Valley River Park by Snapdragon Stadium, 1 Stadium Way, San Diego",
+      "start": "2026-10-29T16:30:00",
+      "duration_minutes": 90,
+      "cost": {
+        "kind": "free",
+        "note": "donations welcome"
+      },
+      "rrule": "FREQ=WEEKLY;BYDAY=TH"
+    },
+    {
+      "id": "sports-casual-coed-soccer-snap-sun",
+      "group_id": "sports-casual-coed-soccer",
+      "title": "Beginner-friendly Coed Soccer at Snapdragon",
+      "description": "",
+      "neighborhood": "mission-valley",
+      "location": "SDSU Mission Valley River Park by Snapdragon Stadium, 1 Stadium Way, San Diego",
+      "start": "2026-11-01T08:00:00",
+      "duration_minutes": 120,
+      "cost": {
+        "kind": "free",
+        "note": "donations welcome"
+      },
+      "rrule": "FREQ=WEEKLY;BYDAY=SU"
+    },
+    {
+      "id": "sports-volleyball-for-a-cause-tue",
+      "group_id": "sports-volleyball-for-a-cause",
+      "title": "Tuesday Beach Volleyball for a Cause",
+      "description": "",
+      "neighborhood": "mission-beach",
+      "location": "End of San Gabriel Pl, 2889 Ocean Front Walk, Mission Beach",
+      "start": "2026-10-27T16:00:00",
+      "duration_minutes": 150,
+      "cost": {
+        "kind": "free",
+        "note": "optional donations; half go to the week's charity"
+      },
+      "rrule": "FREQ=WEEKLY;BYDAY=TU",
+      "url": "https://www.meetup.com/san-diego-volleyball-for-charity/events/316168344/"
+    },
+    {
+      "id": "sports-volleyball-for-a-cause-fri",
+      "group_id": "sports-volleyball-for-a-cause",
+      "title": "Friday Beach Volleyball for a Cause",
+      "description": "",
+      "neighborhood": "ocean-beach",
+      "location": "By the Brighton Ave restrooms, 5199 Brighton Ave, Ocean Beach",
+      "start": "2026-10-30T16:00:00",
+      "duration_minutes": 150,
+      "cost": {
+        "kind": "free",
+        "note": "optional donations; half go to the week's charity"
+      },
+      "rrule": "FREQ=WEEKLY;BYDAY=FR"
+    },
+    {
+      "id": "sports-soccer-at-snap-tue",
+      "group_id": "sports-soccer-at-snap",
+      "title": "Soccer at Snap",
+      "description": "",
+      "neighborhood": "mission-valley",
+      "location": "Thrive Park at Snapdragon Stadium, 2101 Stadium Way, San Diego",
+      "start": "2026-10-27T16:30:00",
+      "duration_minutes": 90,
+      "cost": {
+        "kind": "free"
+      },
+      "rrule": "FREQ=WEEKLY;BYDAY=TU"
+    },
+    {
+      "id": "sports-soccer-at-snap-wed",
+      "group_id": "sports-soccer-at-snap",
+      "title": "Soccer at SDSU ENS Field",
+      "description": "",
+      "neighborhood": "mission-valley",
+      "location": "SDSU ENS Field, 5500 Campanile Dr, San Diego",
+      "start": "2026-10-28T15:30:00",
+      "duration_minutes": 90,
+      "cost": {
+        "kind": "free"
+      },
+      "rrule": "FREQ=WEEKLY;BYDAY=WE",
+      "url": "https://www.meetup.com/soccer-at-snap/events/316687917/"
+    },
+    {
+      "id": "sports-soccer-at-snap-thu",
+      "group_id": "sports-soccer-at-snap",
+      "title": "Soccer at Snap",
+      "description": "",
+      "neighborhood": "mission-valley",
+      "location": "SDSU Mission Valley River Park by Snapdragon Stadium, 1 Stadium Way, San Diego",
+      "start": "2026-10-29T16:30:00",
+      "duration_minutes": 90,
+      "cost": {
+        "kind": "free"
+      },
+      "rrule": "FREQ=WEEKLY;BYDAY=TH",
+      "url": "https://www.meetup.com/soccer-at-snap/events/316918114/"
+    },
+    {
+      "id": "sports-soccer-at-snap-sat",
+      "group_id": "sports-soccer-at-snap",
+      "title": "Soccer at Snap",
+      "description": "",
+      "neighborhood": "mission-valley",
+      "location": "Thrive Park at Snapdragon Stadium, 2101 Stadium Way, San Diego",
+      "start": "2026-10-31T08:00:00",
+      "duration_minutes": 120,
+      "cost": {
+        "kind": "free"
+      },
+      "rrule": "FREQ=WEEKLY;BYDAY=SA",
+      "url": "https://www.meetup.com/soccer-at-snap/events/316935636/"
+    },
+    {
+      "id": "sports-coronado-soccer-sun",
+      "group_id": "sports-coronado-soccer",
+      "title": "Coronado Sunday Soccer",
+      "description": "",
+      "neighborhood": "coronado",
+      "location": "Sunset Park, Ocean Blvd, Coronado",
+      "start": "2026-11-01T17:00:00",
+      "duration_minutes": 120,
+      "cost": {
+        "kind": "free",
+        "note": "$5 a game, or $20 for six months, the first time"
+      },
+      "rrule": "FREQ=WEEKLY;BYDAY=SU",
+      "url": "https://www.meetup.com/coronado-%EF%B8%8F-soccer/events/316660680/"
+    },
+    {
+      "id": "sports-social-soccer-mission-bay-sat",
+      "group_id": "sports-social-soccer-mission-bay",
+      "title": "Saturday Pickup Soccer at Ski Beach",
+      "description": "",
+      "neighborhood": "mission-bay",
+      "location": "Ski Beach, 1600 Vacation Rd, San Diego",
+      "start": "2026-10-31T09:00:00",
+      "duration_minutes": 120,
+      "cost": {
+        "kind": "free",
+        "note": "$5 Venmo donation suggested the first time"
+      },
+      "rrule": "FREQ=WEEKLY;BYDAY=SA",
+      "url": "https://www.meetup.com/socialsoccermbsd/events/316819553/"
+    },
+    {
+      "id": "sports-san-diego-social-golf-dos-osos-1031",
+      "group_id": "sports-san-diego-social-golf",
+      "title": "Golf at Dos Osos Golf Club",
+      "description": "",
+      "neighborhood": "escondido",
+      "location": "Dos Osos Golf Club, 2492 Old Ranch Rd, Escondido",
+      "start": "2026-10-31T11:00:00",
+      "duration_minutes": 300,
+      "cost": {
+        "kind": "fee",
+        "note": "$89 green fees"
+      }
+    },
+    {
+      "id": "sports-san-diego-social-golf-lakehouse-1108",
+      "group_id": "sports-san-diego-social-golf",
+      "title": "Golf at The Links at Lakehouse",
+      "description": "",
+      "neighborhood": "san-marcos",
+      "location": "The Links at Lakehouse, 1750 San Pablo Dr, San Marcos",
+      "start": "2026-11-08T10:30:00",
+      "duration_minutes": 300,
+      "cost": {
+        "kind": "fee",
+        "note": "$95, with cart and range balls"
+      },
+      "url": "https://www.meetup.com/san-diego-social-golf/events/316929504/"
+    },
+    {
+      "id": "sports-san-diego-social-golf-championship-1114",
+      "group_id": "sports-san-diego-social-golf",
+      "title": "Club Championship at Golf Club of California",
+      "description": "",
+      "neighborhood": "fallbrook",
+      "location": "The Golf Club of California, 3742 Flowerwood Ln, Fallbrook",
+      "start": "2026-11-14T11:00:00",
+      "duration_minutes": 300,
+      "cost": {
+        "kind": "fee",
+        "note": "$115, with cart and range"
+      }
+    },
+    {
+      "id": "sports-san-diego-social-golf-native-oaks-1121",
+      "group_id": "sports-san-diego-social-golf",
+      "title": "Golf at Native Oaks Golf Club",
+      "description": "",
+      "neighborhood": "escondido",
+      "location": "Native Oaks Golf Club, 14616 Woods Valley Rd, Valley Center",
+      "start": "2026-11-21T10:00:00",
+      "duration_minutes": 300,
+      "cost": {
+        "kind": "fee",
+        "note": "$120 green fees"
+      }
+    },
+    {
+      "id": "sports-sd-tennis-miracosta-1027",
+      "group_id": "sports-sd-tennis",
+      "title": "Tennis at MiraCosta College (Beginners)",
+      "description": "",
+      "neighborhood": "oceanside",
+      "location": "MiraCosta College, 1 Barnard Dr, Oceanside",
+      "start": "2026-10-27T19:00:00",
+      "duration_minutes": 90,
+      "cost": {
+        "kind": "membership",
+        "note": "$30 a year after a 14-day free trial"
+      },
+      "url": "https://www.meetup.com/sd-tennis/events/317092970/"
+    },
+    {
+      "id": "sports-sd-tennis-rancho-del-oro-1027",
+      "group_id": "sports-sd-tennis",
+      "title": "Tennis at Rancho del Oro Park (Intermediate)",
+      "description": "",
+      "neighborhood": "oceanside",
+      "location": "Rancho del Oro Park, College Blvd & Avenida Empresa, Oceanside",
+      "start": "2026-10-27T20:00:00",
+      "duration_minutes": 90,
+      "cost": {
+        "kind": "membership",
+        "note": "$30 a year after a 14-day free trial"
+      }
+    },
+    {
+      "id": "sports-sd-tennis-poinsettia-1028",
+      "group_id": "sports-sd-tennis",
+      "title": "Tennis at Poinsettia Park (Beginners)",
+      "description": "",
+      "neighborhood": "carlsbad",
+      "location": "Poinsettia Park, 6600 Hidden Valley Rd, Carlsbad",
+      "start": "2026-10-28T20:00:00",
+      "duration_minutes": 90,
+      "cost": {
+        "kind": "membership",
+        "note": "$30 a year after a 14-day free trial"
+      }
+    },
+    {
+      "id": "sports-sd-tennis-miracosta-1029",
+      "group_id": "sports-sd-tennis",
+      "title": "Tennis at MiraCosta College (Beginners)",
+      "description": "",
+      "neighborhood": "oceanside",
+      "location": "MiraCosta College, 1 Barnard Dr, Oceanside",
+      "start": "2026-10-29T19:00:00",
+      "duration_minutes": 90,
+      "cost": {
+        "kind": "membership",
+        "note": "$30 a year after a 14-day free trial"
+      }
+    },
+    {
+      "id": "sports-sd-tennis-carlsbad-high-1031",
+      "group_id": "sports-sd-tennis",
+      "title": "Tennis at Carlsbad High School (Intermediate)",
+      "description": "",
+      "neighborhood": "carlsbad",
+      "location": "Carlsbad High School, 3557 Lancer Way, Carlsbad",
+      "start": "2026-10-31T10:00:00",
+      "duration_minutes": 90,
+      "cost": {
+        "kind": "membership",
+        "note": "$30 a year after a 14-day free trial"
+      },
+      "url": "https://www.meetup.com/sd-tennis/events/317149948/"
+    },
+    {
+      "id": "sports-sd-tennis-poinsettia-1101",
+      "group_id": "sports-sd-tennis",
+      "title": "Tennis at Poinsettia Park (Drills & Rally)",
+      "description": "",
+      "neighborhood": "carlsbad",
+      "location": "Poinsettia Park, 6600 Hidden Valley Rd, Carlsbad",
+      "start": "2026-11-01T20:00:00",
+      "duration_minutes": 90,
+      "cost": {
+        "kind": "membership",
+        "note": "$30 a year after a 14-day free trial"
+      },
+      "url": "https://www.meetup.com/sd-tennis/events/317149960/"
+    }
+  ]
+}

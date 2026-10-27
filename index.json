@@ -30,6 +30,13 @@
       "url": "https://vishaldpatel.github.io/social-group-and-event-lists/SanDiegoCounty/meetup-groups-for-gaming.json"
     },
     {
+      "id": "meetup-groups-sports",
+      "name": "Meetup Groups - Sports",
+      "description": "Soccer, running, pickleball, tennis, golf, fencing and beach volleyball groups around San Diego County, found through Meetup's sports searches.",
+      "region": "SanDiegoCounty",
+      "url": "https://vishaldpatel.github.io/social-group-and-event-lists/SanDiegoCounty/meetup-groups-for-sports.json"
+    },
+    {
       "id": "found-online-run-clubs",
       "name": "Run Clubs",
       "description": "Run clubs collected from sandiegorunningco.com and each club's own pages.",
