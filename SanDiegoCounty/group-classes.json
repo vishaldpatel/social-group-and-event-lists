@@ -1,0 +1,219 @@
+{
+  "format": 1,
+  "id": "found-online-group-classes",
+  "name": "Group Classes (found online)",
+  "description": "Hands-on classes you take with others, like cooking classes, from duckfootbeer.com.",
+  "updated_at": "2026-10-27T04:01:59Z",
+  "groups": [],
+  "events": [
+    {
+      "id": "duckfoot-miramar-ramen-1108",
+      "group_id": "duckfoot-miramar",
+      "title": "Make Your Own Ramen",
+      "description": "",
+      "neighborhood": "mira-mesa",
+      "location": "8920 Kenamar Dr, Suite 210, San Diego, CA 92121",
+      "start": "2026-11-08T13:00:00",
+      "duration_minutes": 120,
+      "rrule": null,
+      "cost": {
+        "kind": "fee",
+        "note": "see their site for price"
+      },
+      "url": "https://duckfootbeer.com/event/ramen-1-24/",
+      "tags": [
+        "cooking class"
+      ]
+    },
+    {
+      "id": "duckfoot-miramar-okonomiyaki-1115",
+      "group_id": "duckfoot-miramar",
+      "title": "Okonomiyaki Class",
+      "description": "",
+      "neighborhood": "mira-mesa",
+      "location": "8920 Kenamar Dr, Suite 210, San Diego, CA 92121",
+      "start": "2026-11-15T13:00:00",
+      "duration_minutes": 120,
+      "rrule": null,
+      "cost": {
+        "kind": "fee",
+        "note": "see their site for price"
+      },
+      "url": "https://duckfootbeer.com/event/okonomiyaki-2/",
+      "tags": [
+        "cooking class"
+      ]
+    },
+    {
+      "id": "duckfoot-miramar-sushi-1129",
+      "group_id": "duckfoot-miramar",
+      "title": "Hand Rolled Sushi Class",
+      "description": "",
+      "neighborhood": "mira-mesa",
+      "location": "8920 Kenamar Dr, Suite 210, San Diego, CA 92121",
+      "start": "2026-11-29T13:00:00",
+      "duration_minutes": 120,
+      "rrule": null,
+      "cost": {
+        "kind": "fee",
+        "note": "see their site for price"
+      },
+      "url": "https://duckfootbeer.com/event/hand-rolled-sushi-6/",
+      "tags": [
+        "cooking class"
+      ]
+    },
+    {
+      "id": "duckfoot-miramar-ravioli-1107",
+      "group_id": "duckfoot-miramar",
+      "title": "Make Your Own Ravioli",
+      "description": "",
+      "neighborhood": "mira-mesa",
+      "location": "8920 Kenamar Dr, Suite 210, San Diego, CA 92121",
+      "start": "2026-11-07T17:00:00",
+      "duration_minutes": 120,
+      "rrule": null,
+      "cost": {
+        "kind": "fee",
+        "note": "see their site for price"
+      },
+      "url": "https://duckfootbeer.com/event/ravioli-2/",
+      "tags": [
+        "cooking class"
+      ]
+    },
+    {
+      "id": "duckfoot-miramar-sushi-1114",
+      "group_id": "duckfoot-miramar",
+      "title": "Hand Rolled Sushi Class",
+      "description": "",
+      "neighborhood": "mira-mesa",
+      "location": "8920 Kenamar Dr, Suite 210, San Diego, CA 92121",
+      "start": "2026-11-14T17:00:00",
+      "duration_minutes": 120,
+      "rrule": null,
+      "cost": {
+        "kind": "fee",
+        "note": "see their site for price"
+      },
+      "url": "https://duckfootbeer.com/event/hand-rolled-sushi-1/",
+      "tags": [
+        "cooking class"
+      ]
+    },
+    {
+      "id": "duckfoot-miramar-ramen-1121",
+      "group_id": "duckfoot-miramar",
+      "title": "Make Your Own Ramen",
+      "description": "",
+      "neighborhood": "mira-mesa",
+      "location": "8920 Kenamar Dr, Suite 210, San Diego, CA 92121",
+      "start": "2026-11-21T17:00:00",
+      "duration_minutes": 120,
+      "rrule": null,
+      "cost": {
+        "kind": "fee",
+        "note": "see their site for price"
+      },
+      "url": "https://duckfootbeer.com/event/ramen-2-16/",
+      "tags": [
+        "cooking class"
+      ]
+    },
+    {
+      "id": "duckfoot-miramar-pad-thai-1122",
+      "group_id": "duckfoot-miramar",
+      "title": "Pad Thai Cooking Class",
+      "description": "",
+      "neighborhood": "mira-mesa",
+      "location": "8920 Kenamar Dr, Suite 210, San Diego, CA 92121",
+      "start": "2026-11-22T17:00:00",
+      "duration_minutes": 120,
+      "rrule": null,
+      "cost": {
+        "kind": "fee",
+        "note": "see their site for price"
+      },
+      "url": "https://duckfootbeer.com/event/pad-thai-cooking-class-2/",
+      "tags": [
+        "cooking class"
+      ]
+    },
+    {
+      "id": "duckfoot-miramar-dumplings-1128",
+      "group_id": "duckfoot-miramar",
+      "title": "Authentic Handmade Dumplings Class",
+      "description": "",
+      "neighborhood": "mira-mesa",
+      "location": "8920 Kenamar Dr, Suite 210, San Diego, CA 92121",
+      "start": "2026-11-28T17:00:00",
+      "duration_minutes": 120,
+      "rrule": null,
+      "cost": {
+        "kind": "fee",
+        "note": "see their site for price"
+      },
+      "url": "https://duckfootbeer.com/event/authentic-handmade-dumplings-class/",
+      "tags": [
+        "cooking class"
+      ]
+    },
+    {
+      "id": "duckfoot-miramar-pasta-1029",
+      "group_id": "duckfoot-miramar",
+      "title": "Homemade Pasta Class",
+      "description": "Make cacio e pepe from scratch.",
+      "neighborhood": "mira-mesa",
+      "location": "8920 Kenamar Dr, Suite 210, San Diego, CA 92121",
+      "start": "2026-10-29T18:30:00",
+      "duration_minutes": 120,
+      "rrule": null,
+      "cost": {
+        "kind": "fee",
+        "note": "see their site for price"
+      },
+      "url": "https://duckfootbeer.com/event/homemade-pasta-class-2/",
+      "tags": [
+        "cooking class"
+      ]
+    },
+    {
+      "id": "duckfoot-miramar-pasta-1105",
+      "group_id": "duckfoot-miramar",
+      "title": "Homemade Pasta Class",
+      "description": "Make cacio e pepe from scratch.",
+      "neighborhood": "mira-mesa",
+      "location": "8920 Kenamar Dr, Suite 210, San Diego, CA 92121",
+      "start": "2026-11-05T18:30:00",
+      "duration_minutes": 120,
+      "rrule": null,
+      "cost": {
+        "kind": "fee",
+        "note": "see their site for price"
+      },
+      "url": "https://duckfootbeer.com/event/homemade-pasta-class-3/",
+      "tags": [
+        "cooking class"
+      ]
+    },
+    {
+      "id": "duckfoot-miramar-ravioli-1127",
+      "group_id": "duckfoot-miramar",
+      "title": "Make Your Own Ravioli",
+      "description": "",
+      "neighborhood": "mira-mesa",
+      "location": "8920 Kenamar Dr, Suite 210, San Diego, CA 92121",
+      "start": "2026-11-27T18:30:00",
+      "duration_minutes": 120,
+      "rrule": null,
+      "cost": {
+        "kind": "fee",
+        "note": "see their site for price"
+      },
+      "url": "https://duckfootbeer.com/event/make-your-own-ravioli/",
+      "tags": [
+        "cooking class"
+      ]
+    }
+  ]
+}

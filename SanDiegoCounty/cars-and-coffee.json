@@ -1,0 +1,315 @@
+{
+  "format": 1,
+  "id": "found-online-cars-and-coffee",
+  "name": "Cars & Coffee Meetups (found online)",
+  "description": "Cars and coffee meetups around San Diego County.",
+  "updated_at": "2026-10-26T23:43:52Z",
+  "groups": [
+    {
+      "id": "cars-la-jolla-cars-and-coffee",
+      "name": "La Jolla Cars and Coffee",
+      "description": "Monthly cars and coffee meetup in La Jolla Village.",
+      "neighborhood": "la-jolla",
+      "address": "1298 Prospect Street, La Jolla",
+      "frequency": "Every 2nd Sunday of the month, 7:30 AM – 10:00 AM",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "cars",
+        "coffee",
+        "social"
+      ],
+      "links": [
+        {
+          "kind": "facebook",
+          "url": "https://www.facebook.com/LaJollaCarsandCoffee/"
+        }
+      ]
+    },
+    {
+      "id": "cars-cbad-cars-carlsbad",
+      "name": "CBAD Cars (Carlsbad Cars & Coffee)",
+      "description": "Weekly Saturday morning cars and coffee meetup at a Carlsbad Starbucks.",
+      "neighborhood": "carlsbad",
+      "address": "Starbucks, 7130 Avenida Encinas, Carlsbad",
+      "frequency": "Every Saturday, 7:00 AM – 9:00 AM",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "cars",
+        "coffee",
+        "social"
+      ],
+      "links": [
+        {
+          "kind": "instagram",
+          "url": "https://www.instagram.com/carlsbad.cars.n.coffee/"
+        }
+      ]
+    },
+    {
+      "id": "cars-escondido-cars-and-coffee",
+      "name": "Escondido Cars & Coffee",
+      "description": "Weekly Sunday morning cars and coffee meetup at Kit Carson Park.",
+      "neighborhood": "escondido",
+      "address": "Kit Carson Park, 3333 Bear Valley Pkwy, Escondido",
+      "frequency": "Every Sunday, 8:00 AM – 11:00 AM",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "cars",
+        "coffee",
+        "social"
+      ],
+      "links": [
+        {
+          "kind": "instagram",
+          "url": "https://www.instagram.com/escondidocarsandcoffee/"
+        }
+      ]
+    },
+    {
+      "id": "cars-rancho-santa-fe-cars-and-coffee",
+      "name": "Rancho Santa Fe Cars & Coffee",
+      "description": "Weekly Saturday morning cars and coffee meetup in Rancho Santa Fe.",
+      "neighborhood": "solana-beach",
+      "address": "6004 Paseo Delicias, Rancho Santa Fe",
+      "frequency": "Every Saturday, 8:00 AM – 11:00 AM",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "cars",
+        "coffee",
+        "social"
+      ],
+      "links": [
+        {
+          "kind": "instagram",
+          "url": "https://www.instagram.com/rsfcars/"
+        }
+      ]
+    },
+    {
+      "id": "cars-bonita-cars-and-coffee",
+      "name": "Bonita Cars & Coffee",
+      "description": "Early Saturday morning cars and coffee meetup at Bonita Donuts.",
+      "neighborhood": "chula-vista",
+      "address": "Bonita Donuts, 4414 Bonita Road, Bonita",
+      "frequency": "Every Saturday, 6:00 AM – 9:00 AM",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "cars",
+        "coffee",
+        "social"
+      ],
+      "links": []
+    },
+    {
+      "id": "cars-point-loma-cars-and-coffee",
+      "name": "Point Loma Cars and Coffee",
+      "description": "Saturday morning cars and coffee meetup on Shelter Island.",
+      "neighborhood": "point-loma",
+      "address": "2230 Shelter Island Dr., San Diego",
+      "frequency": "Saturdays (check page for specific weeks), 7:30 AM – 10:00 AM",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "cars",
+        "coffee",
+        "social"
+      ],
+      "links": [
+        {
+          "kind": "instagram",
+          "url": "https://www.instagram.com/pointlomacarsandcoffee/"
+        }
+      ]
+    },
+    {
+      "id": "cars-san-diego-automotive-museum-cars-and-coffee",
+      "name": "San Diego Automotive Museum Cars & Coffee",
+      "description": "Monthly cars and coffee meetup at the San Diego Automotive Museum in Balboa Park.",
+      "neighborhood": "balboa-park",
+      "address": "2080 Pan American Plaza, San Diego",
+      "frequency": "Every 3rd Sunday of the month, 6:30 AM – 8:00 AM",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "cars",
+        "coffee",
+        "social"
+      ],
+      "links": [
+        {
+          "kind": "instagram",
+          "url": "https://www.instagram.com/sdautomotivemuseum/"
+        }
+      ]
+    },
+    {
+      "id": "cars-cars-and-coffee-la-mesa",
+      "name": "Cars and Coffee La Mesa",
+      "description": "Monthly cars and coffee meetup in La Mesa Village.",
+      "neighborhood": "la-mesa",
+      "address": "8332 La Mesa Blvd, La Mesa",
+      "frequency": "Every 3rd Sunday of the month, 7:00 AM – 9:00 AM",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "cars",
+        "coffee",
+        "social"
+      ],
+      "links": [
+        {
+          "kind": "instagram",
+          "url": "https://www.instagram.com/lamesacarsandcoffee/"
+        }
+      ]
+    },
+    {
+      "id": "cars-san-diego-cars-and-octane",
+      "name": "San Diego Cars & Octane",
+      "description": "Monthly Saturday morning car meetup at the 4S Ranch Chick-fil-A.",
+      "neighborhood": "rancho-bernardo",
+      "address": "Chick-fil-A, 17135 Camino Del Sur, San Diego (4S Ranch)",
+      "frequency": "Every 2nd Saturday of the month, 8:00 AM – 10:00 AM",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "cars",
+        "social"
+      ],
+      "links": [
+        {
+          "kind": "instagram",
+          "url": "https://www.instagram.com/sd_carsandoctane/"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "cars-la-jolla-cars-and-coffee-event",
+      "group_id": "cars-la-jolla-cars-and-coffee",
+      "title": "La Jolla Cars and Coffee",
+      "description": "",
+      "neighborhood": "la-jolla",
+      "location": "1298 Prospect Street, La Jolla",
+      "start": "2026-11-08T07:30:00",
+      "duration_minutes": 150,
+      "rrule": "FREQ=MONTHLY;BYDAY=2SU",
+      "cost": {
+        "kind": "free"
+      }
+    },
+    {
+      "id": "cars-cbad-cars-carlsbad-event",
+      "group_id": "cars-cbad-cars-carlsbad",
+      "title": "CBAD Cars & Coffee",
+      "description": "",
+      "neighborhood": "carlsbad",
+      "location": "Starbucks, 7130 Avenida Encinas, Carlsbad",
+      "start": "2026-10-31T07:00:00",
+      "duration_minutes": 120,
+      "rrule": "FREQ=WEEKLY;BYDAY=SA",
+      "cost": {
+        "kind": "free"
+      }
+    },
+    {
+      "id": "cars-escondido-cars-and-coffee-event",
+      "group_id": "cars-escondido-cars-and-coffee",
+      "title": "Escondido Cars & Coffee",
+      "description": "",
+      "neighborhood": "escondido",
+      "location": "Kit Carson Park, 3333 Bear Valley Pkwy, Escondido",
+      "start": "2026-11-01T08:00:00",
+      "duration_minutes": 180,
+      "rrule": "FREQ=WEEKLY;BYDAY=SU",
+      "cost": {
+        "kind": "free"
+      }
+    },
+    {
+      "id": "cars-rancho-santa-fe-cars-and-coffee-event",
+      "group_id": "cars-rancho-santa-fe-cars-and-coffee",
+      "title": "Rancho Santa Fe Cars & Coffee",
+      "description": "",
+      "neighborhood": "solana-beach",
+      "location": "6004 Paseo Delicias, Rancho Santa Fe",
+      "start": "2026-10-31T08:00:00",
+      "duration_minutes": 180,
+      "rrule": "FREQ=WEEKLY;BYDAY=SA",
+      "cost": {
+        "kind": "free"
+      }
+    },
+    {
+      "id": "cars-bonita-cars-and-coffee-event",
+      "group_id": "cars-bonita-cars-and-coffee",
+      "title": "Bonita Cars & Coffee",
+      "description": "",
+      "neighborhood": "chula-vista",
+      "location": "Bonita Donuts, 4414 Bonita Road, Bonita",
+      "start": "2026-10-31T06:00:00",
+      "duration_minutes": 180,
+      "rrule": "FREQ=WEEKLY;BYDAY=SA",
+      "cost": {
+        "kind": "free"
+      }
+    },
+    {
+      "id": "cars-san-diego-automotive-museum-cars-and-coffee-event",
+      "group_id": "cars-san-diego-automotive-museum-cars-and-coffee",
+      "title": "Automotive Museum Cars & Coffee",
+      "description": "",
+      "neighborhood": "balboa-park",
+      "location": "2080 Pan American Plaza, San Diego",
+      "start": "2026-11-15T06:30:00",
+      "duration_minutes": 90,
+      "rrule": "FREQ=MONTHLY;BYDAY=3SU",
+      "cost": {
+        "kind": "free"
+      }
+    },
+    {
+      "id": "cars-cars-and-coffee-la-mesa-event",
+      "group_id": "cars-cars-and-coffee-la-mesa",
+      "title": "Cars and Coffee La Mesa",
+      "description": "",
+      "neighborhood": "la-mesa",
+      "location": "8332 La Mesa Blvd, La Mesa",
+      "start": "2026-11-15T07:00:00",
+      "duration_minutes": 120,
+      "rrule": "FREQ=MONTHLY;BYDAY=3SU",
+      "cost": {
+        "kind": "free"
+      }
+    },
+    {
+      "id": "cars-san-diego-cars-and-octane-event",
+      "group_id": "cars-san-diego-cars-and-octane",
+      "title": "San Diego Cars & Octane",
+      "description": "",
+      "neighborhood": "rancho-bernardo",
+      "location": "Chick-fil-A, 17135 Camino Del Sur, San Diego (4S Ranch)",
+      "start": "2026-11-14T08:00:00",
+      "duration_minutes": 120,
+      "rrule": "FREQ=MONTHLY;BYDAY=2SA",
+      "cost": {
+        "kind": "free"
+      }
+    }
+  ]
+}
