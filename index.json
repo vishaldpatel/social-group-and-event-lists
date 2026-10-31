@@ -39,6 +39,14 @@
       "default_on": false
     },
     {
+      "id": "meetup-groups-makers-and-hobbies",
+      "name": "Meetup Groups - Makers and Hobbies",
+      "description": "Robotics, 3D printing, fabrication, drone and VR groups around San Diego County, collected from their Meetup pages.",
+      "region": "SanDiegoCounty",
+      "url": "https://vishaldpatel.github.io/social-group-and-event-lists/SanDiegoCounty/meetup-groups-for-makers-and-hobbies.json",
+      "default_on": false
+    },
+    {
       "id": "found-online-run-clubs",
       "name": "Run Clubs",
       "description": "Run clubs collected from sandiegorunningco.com and each club's own pages.",

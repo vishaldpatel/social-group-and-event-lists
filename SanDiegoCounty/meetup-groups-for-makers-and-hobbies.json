@@ -1,0 +1,214 @@
+{
+  "format": 1,
+  "id": "meetup-groups-makers-and-hobbies",
+  "name": "Meetup Groups - Makers and Hobbies",
+  "description": "Robotics, 3D printing, fabrication, drone and VR groups around San Diego County, collected from their Meetup pages.",
+  "updated_at": "2026-10-31T19:41:00Z",
+  "groups": [
+    {
+      "id": "hobby-roboticsclub",
+      "name": "San Diego Robotics Club",
+      "description": "For people who build their own robots, from Lego Mindstorms and Arduino table-top bots to larger custom machines. Its regular meetup is a monthly night for building autonomous RC cars, held at a brewery.",
+      "neighborhood": "bay-park",
+      "address": "Coronado Brewing Company San Diego Tasting Room, 1205 Knoxville St, San Diego",
+      "frequency": "2nd Monday monthly 6:00 PM–8:00 PM",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "robotics",
+        "arduino",
+        "beginner friendly",
+        "21+"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/roboticsclub/"
+        }
+      ],
+      "last_verified": "2026-10-31"
+    },
+    {
+      "id": "hobby-san-diego-3d-printing",
+      "name": "San Diego 3D Printing",
+      "description": "For anyone curious about 3D printing, from beginners to experienced makers. Members meet monthly at a makerspace to share prints, techniques and printer tips.",
+      "neighborhood": "grantville",
+      "address": "CoLab 3.0, 4667 Mission Gorge Pl, San Diego",
+      "frequency": "4th Saturday monthly 10:00 AM–2:00 PM",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "3d printing",
+        "maker",
+        "beginner friendly"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/san-diego-3d-printing/"
+        }
+      ],
+      "last_verified": "2026-10-31"
+    },
+    {
+      "id": "hobby-fab-lab-san-diego",
+      "name": "FAB LAB San Diego",
+      "description": "A digital fabrication community for all ages that explores ideas through hands-on technology. It currently co-hosts the monthly autonomous RC car build night.",
+      "neighborhood": "san-marcos",
+      "address": "",
+      "frequency": "2nd Monday monthly 6:00 PM–8:00 PM",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "fabrication",
+        "maker",
+        "all ages"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/fab-lab-san-diego/"
+        }
+      ],
+      "last_verified": "2026-10-31"
+    },
+    {
+      "id": "hobby-makers-of-san-diego",
+      "name": "Makers of San Diego",
+      "description": "Announcements of maker events and programs around San Diego, run by the Maketory makerspace and industrial coworking space.",
+      "neighborhood": "san-diego",
+      "address": "",
+      "frequency": "",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "maker",
+        "makerspace"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/makers-of-san-diego/"
+        },
+        {
+          "kind": "website",
+          "url": "https://www.maketory.com/"
+        }
+      ],
+      "last_verified": "2026-10-31"
+    },
+    {
+      "id": "hobby-san-diego-drones-meetup-group",
+      "name": "San Diego Drones Meetup Group",
+      "description": "Drone pilots meet about once a month to fly together in an unrestricted zone around San Diego. Afterward they often go to a coffee shop or brewery to review footage.",
+      "neighborhood": "countywide",
+      "address": "",
+      "frequency": "",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "drones",
+        "outdoor"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/san-diego-drones-meetup-group/"
+        }
+      ],
+      "last_verified": "2026-10-31"
+    },
+    {
+      "id": "hobby-drones",
+      "name": "Multicopters, Quadcopters, UAVs, MAVs, Drones (air",
+      "description": "The San Diego Drone User Group, for amateur and professional drone users who promote responsible flying for community, artistic, business and recreational purposes.",
+      "neighborhood": "san-diego",
+      "address": "",
+      "frequency": "",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "drones",
+        "uav"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/drones/"
+        }
+      ],
+      "last_verified": "2026-10-31"
+    },
+    {
+      "id": "hobby-san-diego-virtual-reality",
+      "name": "SDVR - San Diego Virtual Reality",
+      "description": "Open to anyone interested in virtual and augmented reality. Its goal is to connect and educate the local VR/AR community.",
+      "neighborhood": "san-diego",
+      "address": "",
+      "frequency": "",
+      "categories": [
+        "chill"
+      ],
+      "tags": [
+        "vr",
+        "ar",
+        "tech"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/san-diego-virtual-reality/"
+        },
+        {
+          "kind": "other",
+          "url": "https://twitter.com/SanDiegoVR/"
+        }
+      ],
+      "last_verified": "2026-10-31"
+    }
+  ],
+  "events": [
+    {
+      "id": "hobby-roboticsclub-mon",
+      "group_id": "hobby-roboticsclub",
+      "title": "Autonomous Vehicle (RC) - Beginners and Builders (with Beer)",
+      "description": "",
+      "neighborhood": "bay-park",
+      "location": "Coronado Brewing Company San Diego Tasting Room, 1205 Knoxville St, San Diego",
+      "start": "2026-11-09T18:00:00",
+      "duration_minutes": 120,
+      "rrule": "FREQ=MONTHLY;BYDAY=2MO",
+      "url": "https://www.meetup.com/roboticsclub/events/315445822/"
+    },
+    {
+      "id": "hobby-fab-lab-san-diego-mon",
+      "group_id": "hobby-fab-lab-san-diego",
+      "title": "Autonomous Vehicle (RC) - Beginners and Builders (with Beer), part of DIYRoboCars",
+      "description": "",
+      "neighborhood": "bay-park",
+      "location": "Coronado Brewing Company San Diego Tasting Room, 1205 Knoxville St, San Diego",
+      "start": "2026-11-09T18:00:00",
+      "duration_minutes": 120,
+      "rrule": "FREQ=MONTHLY;BYDAY=2MO",
+      "url": "https://www.meetup.com/fab-lab-san-diego/events/312350904/"
+    },
+    {
+      "id": "hobby-san-diego-3d-printing-sat",
+      "group_id": "hobby-san-diego-3d-printing",
+      "title": "In Person - San Diego 3D Printing Monthly Meetup",
+      "description": "",
+      "neighborhood": "grantville",
+      "location": "CoLab 3.0, 4667 Mission Gorge Pl, San Diego",
+      "start": "2026-11-28T10:00:00",
+      "duration_minutes": 240,
+      "rrule": "FREQ=MONTHLY;BYDAY=4SA",
+      "url": "https://www.meetup.com/san-diego-3d-printing/events/316480036/"
+    }
+  ]
+}

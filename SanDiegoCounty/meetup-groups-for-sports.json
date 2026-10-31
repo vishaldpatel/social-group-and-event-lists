@@ -3,15 +3,15 @@
   "id": "meetup-groups-sports",
   "name": "Meetup Groups - Sports",
   "description": "Soccer, running, pickleball, tennis, golf, fencing and beach volleyball groups around San Diego County, found through Meetup's sports searches.",
-  "updated_at": "2026-10-27T19:03:40Z",
+  "updated_at": "2026-10-31T19:24:55Z",
   "groups": [
     {
       "id": "sports-encinitas-pickleball",
       "name": "Encinitas Pickleball",
-      "description": "Pickleball for all levels, built on encouragement and kindness. New players are asked to spend 10 minutes learning the basics first.",
+      "description": "Pickleball for players of every level. The group is built on encouragement and kindness, and it meets at the public courts at Cottonwood Creek Park. Newcomers are asked to learn the basics first.",
       "neighborhood": "encinitas",
-      "address": "Cottonwood Creek Park, 95 N Vulcan Ave, Encinitas (under the Court #1 sign, west side)",
-      "frequency": "Tuesdays 3:30–5:30 PM",
+      "address": "Cottonwood Creek Park, 95 N Vulcan Ave, Encinitas (meet under the Court #1 sign, west side)",
+      "frequency": "Every Tuesday 2:30 PM–4:00 PM",
       "cost": {
         "kind": "free"
       },
@@ -20,7 +20,8 @@
       ],
       "tags": [
         "pickleball",
-        "beginner friendly"
+        "beginner friendly",
+        "outdoor"
       ],
       "links": [
         {
@@ -28,7 +29,7 @@
           "url": "https://www.meetup.com/encinitas-pickleball/"
         }
       ],
-      "last_verified": "2026-10-27"
+      "last_verified": "2026-10-31"
     },
     {
       "id": "sports-meetup-all-welcome",
@@ -375,6 +376,55 @@
         }
       ],
       "last_verified": "2026-10-27"
+    },
+    {
+      "id": "sports-free-yoga-class-in-la-jolla-cove",
+      "name": "Yoga in La Jolla Cove and Encinitas",
+      "description": "Free outdoor 60-minute vinyasa flow classes taught by a yoga couple. The classes focus on breath, strength, balance and flexibility. Recent sessions have been held on Sunday mornings at Encinitas Viewpoint Park.",
+      "neighborhood": "countywide",
+      "address": "Various (La Jolla Cove, Encinitas Viewpoint Park, 56 E D St, Encinitas)",
+      "frequency": "Sundays 9:00 AM–10:00 AM",
+      "cost": {
+        "kind": "free"
+      },
+      "categories": [
+        "active"
+      ],
+      "tags": [
+        "yoga",
+        "outdoor",
+        "free"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/free-yoga-class-in-la-jolla-cove/"
+        }
+      ],
+      "last_verified": "2026-10-31"
+    },
+    {
+      "id": "sports-sailingsandiego",
+      "name": "Sailing San Diego",
+      "description": "A private sailing club for people with at least some sailing experience. Members split the cost of chartered boats or crew for private boat owners, and they sail out of San Diego Bay several times a week. The club also holds social events.",
+      "neighborhood": "san-diego-bay",
+      "address": "Various (San Diego Bay)",
+      "frequency": "",
+      "categories": [
+        "active"
+      ],
+      "tags": [
+        "sailing",
+        "outdoor",
+        "experience required"
+      ],
+      "links": [
+        {
+          "kind": "meetup",
+          "url": "https://www.meetup.com/sailingsandiego/"
+        }
+      ],
+      "last_verified": "2026-10-31"
     }
   ],
   "events": [
@@ -382,16 +432,16 @@
       "id": "sports-encinitas-pickleball-tue",
       "group_id": "sports-encinitas-pickleball",
       "title": "Encinitas Pickleball",
-      "description": "",
+      "description": "Meet under the Court #1 sign (west side). All levels welcome.",
       "neighborhood": "encinitas",
-      "location": "Cottonwood Creek Park, 95 N Vulcan Ave, Encinitas (under the Court #1 sign, west side)",
-      "start": "2026-10-27T15:30:00",
-      "duration_minutes": 120,
+      "location": "Cottonwood Creek Park, 95 N Vulcan Ave, Encinitas",
+      "start": "2026-11-03T14:30:00",
+      "duration_minutes": 90,
       "cost": {
         "kind": "free"
       },
       "rrule": "FREQ=WEEKLY;BYDAY=TU",
-      "url": "https://www.meetup.com/encinitas-pickleball/events/316395713/"
+      "url": "https://www.meetup.com/encinitas-pickleball/events/317222340/"
     },
     {
       "id": "sports-meetup-all-welcome-fencing",
