@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Resume the Claude Code session for this blog project.
+cd "$(dirname "$(readlink -f "$0")")" || exit 1
+exec claude --resume 75eb38c0-ea8e-4989-97ad-3f08847b6f8c "$@"
