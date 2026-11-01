@@ -9,6 +9,13 @@
       "url": "https://vishaldpatel.github.io/social-group-and-event-lists/SanDiegoCounty/cars-and-coffee.json"
     },
     {
+      "id": "found-online-festivals-and-markets",
+      "name": "Festivals, Street Fairs & Markets",
+      "description": "Street fairs, festivals, farmers markets, night markets and holiday events around San Diego County, from the County's certified farmers' market list, sdstreetfairs.com and each event's own pages.",
+      "region": "SanDiegoCounty",
+      "url": "https://vishaldpatel.github.io/social-group-and-event-lists/SanDiegoCounty/festivals-and-markets.json"
+    },
+    {
       "id": "found-online-game-nights",
       "name": "Game Nights",
       "description": "Trivia and bingo nights around San Diego County, from sunsettrivia.com and duckfootbeer.com.",
