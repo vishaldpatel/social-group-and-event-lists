@@ -42,7 +42,7 @@ Each **group**:
   "frequency": "Every Saturday 10:00 AM–12:00 PM",
   "cost": { "kind": "free | fee | membership", "note": "optional detail, e.g. $5 per event" },
   "categories": ["chill"],
-  "tags": ["chess", "beginner friendly", "outdoor"],
+  "tags": ["games", "beginner friendly", "outdoor"],
   "links": [
     { "kind": "meetup", "url": "https://www.meetup.com/san-diego-social-chess-club/" },
     { "kind": "instagram | facebook | discord | website | other", "url": "..." }
@@ -73,11 +73,7 @@ Rules:
 - `rrule` uses iCalendar RRULE format, e.g. `FREQ=WEEKLY;BYDAY=TU`, `FREQ=WEEKLY;BYDAY=MO;INTERVAL=2` for every other Monday, or `FREQ=MONTHLY;BYDAY=1SA` for the first Saturday of each month. Leave out the `rrule` key for one-off events.
 - Leave out `cost` and `url` on an event if they aren't known. Leave out `cost` on a group if it isn't shown.
 - `categories`: gaming groups get `["chill"]`, sports groups get `["active"]`, and makers_and_hobbies groups get `["chill"]`. A gaming or makers_and_hobbies group that's physically active (e.g. dancing, or flying drones outdoors) can get `["chill", "active"]`.
-- `tags`: 2–5 tags, chosen only from this list:
-  - Activity: board games, card games, chess, mahjong, pinball, puzzles, tabletop rpg, trivia, video games, game night, running, walking, trail, soccer, pickleball, tennis, golf, volleyball, fencing, yoga, sailing, surfing, skateboarding, ice skating, dance, makers, drones, tech, class
-  - Who it's for: beginner friendly, intermediate, experience required, competitive, family friendly, 21+, dog friendly, lgbtq+, singles, women only, coed, pickup, social
-  - Setting: outdoor, beach, bar, beer, wine, cocktails, coffee, food, live music, art, culture
-  If nothing fits, use a short lowercase tag for the activity.
+- `tags`: 1–5 tags, chosen only from this list: games, sports, running, music, art, makers, cars, class, festival, market, holiday, food, drinks, outdoor, family friendly, beginner friendly, 21+, dog friendly, lgbtq+, singles, women only. Don't invent new tags.
 - `neighborhood`: use one of these if it fits: alpine, balboa-park, bay-park, carlsbad, carmel-valley, chula-vista, clairemont, coronado, del-mar, downtown, el-cajon, encinitas, escondido, fallbrook, grantville, hillcrest, imperial-beach, kearny-mesa, la-jolla, la-mesa, lakeside, little-italy, mira-mesa, mission-bay, mission-beach, mission-valley, national-city, normal-heights, north-park, ocean-beach, oceanside, pacific-beach, point-loma, rancho-bernardo, san-diego-bay, san-marcos, santee, solana-beach, south-park, spring-valley, university-city, vista. Use "countywide" for groups that meet in several areas or whose location isn't clear. Don't use "san-diego"; pick the specific neighborhood or use "countywide". Use "online" for online-only events and groups. If none of these fit, make a new lowercase-hyphenated name for the city or neighborhood.
 - If a group has no upcoming events, still include the group and give it no events.
 - If several of my groups post the same event (same venue, date and time), list it only once, under the group that hosts it. If you can't tell which group hosts it, use the first group you found it under.

@@ -19,7 +19,7 @@
         "active"
       ],
       "tags": [
-        "pickleball",
+        "sports",
         "beginner friendly",
         "outdoor"
       ],
@@ -45,7 +45,7 @@
         "active"
       ],
       "tags": [
-        "fencing",
+        "sports",
         "beginner friendly",
         "family friendly"
       ],
@@ -76,10 +76,8 @@
         "active"
       ],
       "tags": [
-        "golf",
-        "coed",
-        "beginner friendly",
-        "competitive"
+        "sports",
+        "beginner friendly"
       ],
       "links": [
         {
@@ -108,7 +106,7 @@
         "active"
       ],
       "tags": [
-        "tennis",
+        "sports",
         "beginner friendly"
       ],
       "links": [
@@ -134,7 +132,7 @@
         "active"
       ],
       "tags": [
-        "pickleball",
+        "sports",
         "beginner friendly"
       ],
       "links": [
@@ -160,8 +158,8 @@
         "active"
       ],
       "tags": [
-        "volleyball",
-        "beach",
+        "sports",
+        "outdoor",
         "beginner friendly",
         "class"
       ],
@@ -196,9 +194,7 @@
         "active"
       ],
       "tags": [
-        "soccer",
-        "pickup",
-        "coed"
+        "sports"
       ],
       "links": [
         {
@@ -223,8 +219,7 @@
       ],
       "tags": [
         "running",
-        "social",
-        "bar"
+        "drinks"
       ],
       "links": [
         {
@@ -253,9 +248,7 @@
         "active"
       ],
       "tags": [
-        "soccer",
-        "pickup",
-        "coed",
+        "sports",
         "beginner friendly"
       ],
       "links": [
@@ -281,10 +274,8 @@
         "active"
       ],
       "tags": [
-        "volleyball",
-        "beach",
-        "charity",
-        "intermediate"
+        "sports",
+        "outdoor"
       ],
       "links": [
         {
@@ -308,9 +299,7 @@
         "active"
       ],
       "tags": [
-        "soccer",
-        "pickup",
-        "intermediate"
+        "sports"
       ],
       "links": [
         {
@@ -335,9 +324,7 @@
         "active"
       ],
       "tags": [
-        "soccer",
-        "pickup",
-        "coed",
+        "sports",
         "beginner friendly"
       ],
       "links": [
@@ -363,9 +350,7 @@
         "active"
       ],
       "tags": [
-        "soccer",
-        "pickup",
-        "coed"
+        "sports"
       ],
       "links": [
         {
@@ -389,7 +374,7 @@
         "active"
       ],
       "tags": [
-        "yoga",
+        "sports",
         "outdoor"
       ],
       "links": [
@@ -411,9 +396,8 @@
         "active"
       ],
       "tags": [
-        "sailing",
-        "outdoor",
-        "experience required"
+        "sports",
+        "outdoor"
       ],
       "links": [
         {
